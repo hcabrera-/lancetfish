@@ -1,0 +1,15 @@
+{signal: [
+  {name: ['tspan', {fill:'black'}, 'clk'],      wave: 'p.Pp......Pp....|.'},
+  {name: ['tspan', {fill:'black'}, 'par_difp'], wave: '1.0.......1.....|.'},
+  {name: ['tspan', {fill:'black'}, 'par_difn'], wave: '0.1.......0.....|.'},
+  {name: ['tspan', {fill:'black'}, 'canal'],    wave: 'x.22222x..22222x|.', data:['c', 'd1', 'd2', 'd3', 'd4', 'c', 'd1', 'd2', 'd3', 'd4']},
+  {},
+  {name: ['tspan', {fill:'black'}, 'creditos'], wave: '2.2......22.....|.', data:['1', '0', '1', '0']},
+  {name: ['tspan', {fill:'black'}, 'rec_crt'],  wave: '0.......10......|.'}  
+ ],
+ head:{
+   tick:0,
+ }
+
+}
+

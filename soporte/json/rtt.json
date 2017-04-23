@@ -1,0 +1,22 @@
+{signal: [
+  {name: ['tspan', {fill:'black'}, 'clk'],      wave: 'p.............|.'},
+  {},
+  ['Origen',
+  {name: ['tspan', {fill:'black'}, 'canal'],    wave: 'x...22222x...x|.', data:['c', 'd1', 'd2', 'd3', 'd4']},
+  {name: ['tspan', {fill:'black'}, 'rec_crt'],  wave: '0.10......10..|.'},
+  {name: ['tspan', {fill:'black'}, 'creditos'], wave: '2...22.....2.x|.', data:['0', '1', '0', '1', 'd4']},
+  ],
+  {},
+  ['Destino',
+  {name: ['tspan', {fill:'black'}, 'canal'],    wave: 'x....22222x..x|.', data:['c', 'd1', 'd2', 'd3', 'd4']},
+  {name: ['tspan', {fill:'black'}, 'env_crt'],  wave: '010......10...|.', node:'..a.......b'},
+  {node:'..c.......d'}
+  ] 
+ ],
+ edge: ['a-c', 'b-d', 'c<->d Tcdt'],
+ head:{
+   tick:0,
+ }
+
+}
+
