@@ -1,0 +1,97 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}Tópicos Específicos}{43}{chapter.3}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{ch:topicos_selectos}{{3}{43}{Tópicos Específicos}{chapter.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces  Diagrama abstracto de una red en-chip. \textit  {PE} representa un Elemento de Procesamiento. La figura resalta los módulos de la red impactados por los parámetros descritos dentro de este capitulo. \relax }}{44}{figure.caption.20}}
+\newlabel{fig:ch2_topicos_general}{{3.1}{44}{Diagrama abstracto de una red en-chip. \textit {PE} representa un Elemento de Procesamiento. La figura resalta los módulos de la red impactados por los parámetros descritos dentro de este capitulo. \relax }{figure.caption.20}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Topología: Malla}{44}{section.3.1}}
+\newlabel{sec:topologia_malla}{{3.1}{44}{Topología: Malla}{section.3.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.1}Desempeño de una malla}{45}{subsection.3.1.1}}
+\newlabel{ecu:ch2_rendimiento}{{3.1}{45}{Desempeño de una malla}{equation.3.1.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces  Topología tipo malla. a) red con topología tipo malla, a cada nodo se le asigna una dirección compuesta de una tupla $(x,y)$. b) Número de saltos requeridos para comunicar los elementos de procesamiento más distantes de la red. c) Los nodos al centro de la red tienen el mayor \textit  {grado} de conectividad. d) Ancho de banda en la bisección. \relax }}{46}{figure.caption.21}}
+\newlabel{fig:ch2_mesh_caracteristicas}{{3.2}{46}{Topología tipo malla. a) red con topología tipo malla, a cada nodo se le asigna una dirección compuesta de una tupla $(x,y)$. b) Número de saltos requeridos para comunicar los elementos de procesamiento más distantes de la red. c) Los nodos al centro de la red tienen el mayor \textit {grado} de conectividad. d) Ancho de banda en la bisección. \relax }{figure.caption.21}{}}
+\newlabel{ecu:ch2_biseccion}{{3.2}{46}{Desempeño de una malla}{equation.3.1.2}{}}
+\newlabel{ecu:ch2_carga_biseccion}{{3.3}{46}{Desempeño de una malla}{equation.3.1.3}{}}
+\newlabel{ecu:ch2_carga_malla}{{3.4}{47}{Desempeño de una malla}{equation.3.1.4}{}}
+\newlabel{ecu:ch2_ancho_de_canal}{{3.5}{47}{Desempeño de una malla}{equation.3.1.5}{}}
+\newlabel{ecu:ch2_rendimiento_malla}{{3.6}{47}{Desempeño de una malla}{equation.3.1.6}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.2}Latencia de una malla}{48}{subsection.3.1.2}}
+\citation{chapter2:Kermani79:virtualcut-through}
+\newlabel{ecu:ch2_latencia_serial}{{3.7}{49}{Latencia de una malla}{equation.3.1.7}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Control de flujo}{49}{section.3.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.1}Control de flujo basado en paquetes: Virtual Cut-Throught}{49}{subsection.3.2.1}}
+\citation{chapter2:Shin:1996:AIH:232665.232669,chapter2:Duato:2001:CRA:372836.372856}
+\newlabel{eq:t_vct}{{3.8}{50}{Control de flujo basado en paquetes: Virtual Cut-Throught}{equation.3.2.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.2}Control a nivel de enlace basado en créditos}{51}{subsection.3.2.2}}
+\newlabel{subsec:control_basado_creditos}{{3.2.2}{51}{Control a nivel de enlace basado en créditos}{subsection.3.2.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces  Línea de tiempo de proceso de transmisión de créditos. El nodo emisor (Nodo 1) resta un crédito con cada paquete que envía al nodo receptor. Cada crédito representa espacio de almacenamiento en los buffers del Nodo 2. El nodo receptor envía de vuelta un crédito con la salida de un paquetes de su medio de almacenamiento temporal. El escenario representado en esta figura supone nodos de red con espacio de almacenamiento suficiente para 1 solo paquete. \relax }}{52}{figure.caption.22}}
+\newlabel{fig:ch2_creditos_timeline}{{3.3}{52}{Línea de tiempo de proceso de transmisión de créditos. El nodo emisor (Nodo 1) resta un crédito con cada paquete que envía al nodo receptor. Cada crédito representa espacio de almacenamiento en los buffers del Nodo 2. El nodo receptor envía de vuelta un crédito con la salida de un paquetes de su medio de almacenamiento temporal. El escenario representado en esta figura supone nodos de red con espacio de almacenamiento suficiente para 1 solo paquete. \relax }{figure.caption.22}{}}
+\newlabel{eq:bit_rate}{{3.9}{53}{Control a nivel de enlace basado en créditos}{equation.3.2.9}{}}
+\citation{chapter2:Glass:1998:TMA:285930.286003}
+\newlabel{eq:flits_cdt}{{3.10}{54}{Control a nivel de enlace basado en créditos}{equation.3.2.10}{}}
+\newlabel{eq:flits_cdt}{{3.11}{54}{Control a nivel de enlace basado en créditos}{equation.3.2.11}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Planificación de ruta: \textit  {Modelo basado en giros}}{54}{section.3.3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces  Giros previstos durante una transferencia a través de la red.a) giro desde $x$ en dirección a $y$. b) giro desde $y$ en dirección a $x$. c) Giro de 180°, donde la dimensión de tránsito permanece sin alteración, sin embargo, la dirección de desplazamiento es alterada desde $x+$ a $x-$. \relax }}{55}{figure.caption.23}}
+\newlabel{fig:ch2_turns}{{3.4}{55}{Giros previstos durante una transferencia a través de la red.a) giro desde $x$ en dirección a $y$. b) giro desde $y$ en dirección a $x$. c) Giro de 180°, donde la dimensión de tránsito permanece sin alteración, sin embargo, la dirección de desplazamiento es alterada desde $x+$ a $x-$. \relax }{figure.caption.23}{}}
+\citation{chapter2:Shubhangi:2012}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.5}{\ignorespaces  Posibles relaciones cíclicas en redes con topologías tipo malla. Los apartados a) y b) muestran la forma más simple de un \textit  {deadlock}. El apartado c) muestra una dependencia cíclica compleja, la cual está formada por 6 giros y tránsito en direcciones opuestas. d) Giros prohibidos por el algoritmo XY para prevenir la formación de dependencias cíclicas. \relax }}{56}{figure.caption.24}}
+\newlabel{fig:ch2_giros_deadlock}{{3.5}{56}{Posibles relaciones cíclicas en redes con topologías tipo malla. Los apartados a) y b) muestran la forma más simple de un \textit {deadlock}. El apartado c) muestra una dependencia cíclica compleja, la cual está formada por 6 giros y tránsito en direcciones opuestas. d) Giros prohibidos por el algoritmo XY para prevenir la formación de dependencias cíclicas. \relax }{figure.caption.24}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.1}Grado de adaptabilidad}{57}{subsection.3.3.1}}
+\newlabel{eq:grado_adaptabilidad}{{3.12}{57}{Grado de adaptabilidad}{equation.3.3.12}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.2}Algoritmo West First minimal}{57}{subsection.3.3.2}}
+\newlabel{subsec:algoritmo_west_first_minimal}{{3.3.2}{57}{Algoritmo West First minimal}{subsection.3.3.2}{}}
+\newlabel{eq:grado_wfm}{{3.13}{58}{Algoritmo West First minimal}{equation.3.3.13}{}}
+\@writefile{loa}{\contentsline {algocf}{\numberline {1}{\ignorespaces  \textit  {West-First minimal} \relax }}{59}{algocf.1}}
+\newlabel{code:west_first_minimal}{{1}{59}{Algoritmo West First minimal}{algocf.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.6}{\ignorespaces  Rutas planificadas por medio del algoritmo west-first minimal. Las rutas creadas por medio de este algoritmo permite sortear bloqueos gracias a su capacidad de adaptabilidad. La ruta con inicio en la esquina inferior derecha muestra los cambios de adaptabilidad de la ruta conforme es reevaluada en cada nodo de la red. \relax }}{60}{figure.caption.25}}
+\newlabel{fig:ch2_wf_example}{{3.6}{60}{Rutas planificadas por medio del algoritmo west-first minimal. Las rutas creadas por medio de este algoritmo permite sortear bloqueos gracias a su capacidad de adaptabilidad. La ruta con inicio en la esquina inferior derecha muestra los cambios de adaptabilidad de la ruta conforme es reevaluada en cada nodo de la red. \relax }{figure.caption.25}{}}
+\@setckpt{chapters/chapter3}{
+\setcounter{page}{61}
+\setcounter{equation}{13}
+\setcounter{enumi}{4}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{3}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{3}
+\setcounter{section}{3}
+\setcounter{subsection}{2}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{6}
+\setcounter{table}{0}
+\setcounter{parentequation}{0}
+\setcounter{AlgoLine}{0}
+\setcounter{algocfline}{1}
+\setcounter{algocfproc}{1}
+\setcounter{algocf}{1}
+\setcounter{lstnumber}{1}
+\setcounter{Item}{8}
+\setcounter{Hfootnote}{3}
+\setcounter{Hy@AnnotLevel}{0}
+\setcounter{bookmark@seq@number}{16}
+\setcounter{DefaultLines}{2}
+\setcounter{DefaultDepth}{0}
+\setcounter{L@lines}{0}
+\setcounter{L@depth}{0}
+\setcounter{ContinuedFloat}{0}
+\setcounter{subfigure}{0}
+\setcounter{subtable}{0}
+\setcounter{eu@}{0}
+\setcounter{eu@i}{0}
+\setcounter{mkern}{4}
+\setcounter{lofdepth}{1}
+\setcounter{lotdepth}{1}
+\setcounter{@pps}{0}
+\setcounter{@ppsavesec}{0}
+\setcounter{@ppsaveapp}{0}
+\setcounter{NAT@ctr}{0}
+\setcounter{r@tfl@t}{0}
+\setcounter{lstlisting}{0}
+\setcounter{section@level}{0}
+}

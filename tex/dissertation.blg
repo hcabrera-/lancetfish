@@ -1,0 +1,92 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: dissertation.aux
+A level-1 auxiliary file: chapters/introduction.aux
+A level-1 auxiliary file: chapters/chapter1.aux
+A level-1 auxiliary file: chapters/chapter2.aux
+A level-1 auxiliary file: chapters/chapter3.aux
+A level-1 auxiliary file: chapters/chapter4.aux
+A level-1 auxiliary file: chapters/chapter5.aux
+A level-1 auxiliary file: chapters/conclusion.aux
+The style file: apalike2.bst
+A level-1 auxiliary file: endmatter/colophon.aux
+Database file #1: references.bib
+Repeated entry---line 106 of file references.bib
+ : @article{chapter3:1511976
+ :                          ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 153 of file references.bib
+ :  url =    
+ :           = "http://www.xilinx.com/support/documentation/white_papers/wp374_Partial_Reconfig_Xilinx_FPGAs.pdf"
+I'm skipping whatever remains of this entry
+You're missing a field part---line 507 of file references.bib
+ :  url =    
+ :           = "http://www.xilinx.com/support/documentation/white_papers/wp380_Stacked_Silicon_Interconnect_Technology.pdf"
+I'm skipping whatever remains of this entry
+Warning--entry type for "chapter1:ADAPTEVA:HOME" isn't style-file defined
+--line 739 of file references.bib
+You're missing a field part---line 781 of file references.bib
+ :  url =    
+ :           = "http://www.intel.com/content/www/us/en/embedded/products/quark/quark-x1000-datasheet.html"
+I'm skipping whatever remains of this entry
+You're missing a field part---line 842 of file references.bib
+ :  url =    
+ :           = "http://www.xilinx.com/support/documentation/sw_manuals/xilinx2015_2/ug893-vivado-ide.pdf"
+I'm skipping whatever remains of this entry
+You're missing a field part---line 855 of file references.bib
+ :  url =    
+ :           = "https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/hb/nios2/n2cpu-nii5v1gen2.pdf"
+I'm skipping whatever remains of this entry
+You're missing a field part---line 868 of file references.bib
+ :  url =    
+ :           = "http://www.xilinx.com/support/documentation/sw_manuals/xilinx2014_2/ug984-vivado-microblaze-ref.pdf"
+I'm skipping whatever remains of this entry
+You're missing a field part---line 922 of file references.bib
+ :  url =    
+ :           = "http://www.xilinx.com/support/documentation/user_guides/ug474_7Series_CLB.pdf"
+I'm skipping whatever remains of this entry
+Warning--entry type for "chapter0:gplv3" isn't style-file defined
+--line 1027 of file references.bib
+Warning--empty school in chapter3:Romine:1992:DSM:143487
+You've used 75 entries,
+            2229 wiz_defined-function locations,
+            975 strings with 19087 characters,
+and the built_in function-call counts, 33114 in all, are:
+= -- 3264
+> -- 1218
+< -- 76
++ -- 439
+- -- 404
+* -- 2589
+:= -- 5393
+add.period$ -- 227
+call.type$ -- 75
+change.case$ -- 562
+chr.to.int$ -- 70
+cite$ -- 76
+duplicate$ -- 1468
+empty$ -- 2462
+format.name$ -- 525
+if$ -- 6924
+int.to.chr$ -- 6
+int.to.str$ -- 0
+missing$ -- 86
+newline$ -- 379
+num.names$ -- 225
+pop$ -- 642
+preamble$ -- 1
+purify$ -- 577
+quote$ -- 0
+skip$ -- 1113
+stack$ -- 0
+substring$ -- 2253
+swap$ -- 359
+text.length$ -- 36
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 422
+warning$ -- 1
+while$ -- 254
+width$ -- 0
+write$ -- 988
+(There were 8 error messages)

@@ -1,0 +1,94 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Nodo estandar de red}{69}{chapter.5}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{chap:nodo_de_red}{{5}{69}{Nodo estandar de red}{chapter.5}{}}
+\citation{chapter0:NIST:1977:DES}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces  Cada nodo de red es una isla de procesamiento en el acelerador. Las líneas de interconexión entre nodos se denominan canales. EP: Elemento de procesamiento, IR: Interfaz de red \relax }}{70}{figure.caption.30}}
+\newlabel{fig:ch4_nodo}{{5.1}{70}{Cada nodo de red es una isla de procesamiento en el acelerador. Las líneas de interconexión entre nodos se denominan canales. EP: Elemento de procesamiento, IR: Interfaz de red \relax }{figure.caption.30}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces  No existe una restricción en el número de flits para el transporte de información dentro de un paquete, sin embargo, el incremento de estas unidades de transporte acarrea consigo una mayor congestión en la red, además de un incremento en la cantidad de almacenamiento temporal requerido por cada uno de los puertos del encaminador. \relax }}{71}{figure.caption.31}}
+\newlabel{fig:ch4_organizacion_paquete}{{5.2}{71}{No existe una restricción en el número de flits para el transporte de información dentro de un paquete, sin embargo, el incremento de estas unidades de transporte acarrea consigo una mayor congestión en la red, además de un incremento en la cantidad de almacenamiento temporal requerido por cada uno de los puertos del encaminador. \relax }{figure.caption.31}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Formato de paquete}{71}{section.5.1}}
+\newlabel{sec:formato_de_paquetes}{{5.1}{71}{Formato de paquete}{section.5.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.3}{\ignorespaces  Formato de flit de cabecera. El uso del campo \textit  {origen} permite la implementación de algoritmos de encaminamiento basados en el modelo \textit  {odd-even}. En caso de omitir el uso del campo origen durante el proceso de planificación de ruta, su espacio puede anexarse al campo \textit  {número de secuencia} para ampliar su longitud. \relax }}{72}{figure.caption.32}}
+\newlabel{fig:ch4_flit_cabecera}{{5.3}{72}{Formato de flit de cabecera. El uso del campo \textit {origen} permite la implementación de algoritmos de encaminamiento basados en el modelo \textit {odd-even}. En caso de omitir el uso del campo origen durante el proceso de planificación de ruta, su espacio puede anexarse al campo \textit {número de secuencia} para ampliar su longitud. \relax }{figure.caption.32}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Router}{73}{section.5.2}}
+\newlabel{sec:router}{{5.2}{73}{Router}{section.5.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.4}{\ignorespaces  Diagrama a bloques del encaminador. En la figura se utilizan las siguientes abreviaciones: $CE^{w}$ módulo controlador de enlace, $PS^{w}$ módulo planificador de salida, $RS^{w}$ registro de salida, IR interfaz de red y PE elemento de procesamiento. Los paquetes ingresan a través de los canales de entrada conectados a los medios de almacenamiento temporal denominados \textit  {buffers} en la figura. Los canales de salida se encuentran conectados de manera directa a los registros $RS^{w}$ del módulo. \relax }}{74}{figure.caption.33}}
+\newlabel{fig:ch4_top_level_router}{{5.4}{74}{Diagrama a bloques del encaminador. En la figura se utilizan las siguientes abreviaciones: $CE^{w}$ módulo controlador de enlace, $PS^{w}$ módulo planificador de salida, $RS^{w}$ registro de salida, IR interfaz de red y PE elemento de procesamiento. Los paquetes ingresan a través de los canales de entrada conectados a los medios de almacenamiento temporal denominados \textit {buffers} en la figura. Los canales de salida se encuentran conectados de manera directa a los registros $RS^{w}$ del módulo. \relax }{figure.caption.33}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.1}Control de enlace}{75}{subsection.5.2.1}}
+\newlabel{subsec:control_de_enlace}{{5.2.1}{75}{Control de enlace}{subsection.5.2.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.5}{\ignorespaces  Los módulos control de enlace implementan la misma lógica independientemente del puerto de entrada al cual han sido asignado. La diferencia entre ellos radica en los puertos a los cuales pueden enviar peticiones. a) muestra los puertos de conexión del módulo, mientras b) hace referencia los bloques internos del mismo. \relax }}{77}{figure.caption.34}}
+\newlabel{fig:ch4_control_de_enlace_top}{{5.5}{77}{Los módulos control de enlace implementan la misma lógica independientemente del puerto de entrada al cual han sido asignado. La diferencia entre ellos radica en los puertos a los cuales pueden enviar peticiones. a) muestra los puertos de conexión del módulo, mientras b) hace referencia los bloques internos del mismo. \relax }{figure.caption.34}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.6}{\ignorespaces  El uso de paquetes de longitud fija simplifica la lógica de codificación de las máquinas de estado para la recepción y transporte de paquetes entre puertos de entrada y salida. Al no contar con un flit de final de paquete, las máquinas de estado solo deben de utilizar un contador para mantener el control del inicio y fin los paquetes en tránsito. \relax }}{78}{figure.caption.35}}
+\newlabel{fig:ch4_fsm_control_de_enlace}{{5.6}{78}{El uso de paquetes de longitud fija simplifica la lógica de codificación de las máquinas de estado para la recepción y transporte de paquetes entre puertos de entrada y salida. Al no contar con un flit de final de paquete, las máquinas de estado solo deben de utilizar un contador para mantener el control del inicio y fin los paquetes en tránsito. \relax }{figure.caption.35}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.2}Planificador de salida}{78}{subsection.5.2.2}}
+\newlabel{subsec:planificador_de_salida}{{5.2.2}{78}{Planificador de salida}{subsection.5.2.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.7}{\ignorespaces  El módulo planificador de salida se conecta a los módulos \textit  {controlador de enlace} y \textit  {selector} de los puertos de entrada en direcciones opuestas al puerto de salida que resguarda. a) muestra las conexiones entre un planificador de salida y los demás módulos del encaminador. b) presenta los bloques que conforman a un planificador de salida. \relax }}{80}{figure.caption.36}}
+\newlabel{fig:ch4_planificador_de_salida_top}{{5.7}{80}{El módulo planificador de salida se conecta a los módulos \textit {controlador de enlace} y \textit {selector} de los puertos de entrada en direcciones opuestas al puerto de salida que resguarda. a) muestra las conexiones entre un planificador de salida y los demás módulos del encaminador. b) presenta los bloques que conforman a un planificador de salida. \relax }{figure.caption.36}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.8}{\ignorespaces  Los multiplexores del \textit  {camino de datos} están controlados por la señal \textit  {vector de configuración de crossbar} proveniente de los planificadores de salida. El manejo de \textit  {buffers} está a cargo de los controladores de enlace. \relax }}{81}{figure.caption.37}}
+\newlabel{fig:ch4_camino_de_datos}{{5.8}{81}{Los multiplexores del \textit {camino de datos} están controlados por la señal \textit {vector de configuración de crossbar} proveniente de los planificadores de salida. El manejo de \textit {buffers} está a cargo de los controladores de enlace. \relax }{figure.caption.37}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.3}Camino de datos}{81}{subsection.5.2.3}}
+\newlabel{subsec:camino_de_datos}{{5.2.3}{81}{Camino de datos}{subsection.5.2.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.9}{\ignorespaces  Interfaz de red. a) la interfaz de red se conecta al encaminador como un vecino más de la red. b) modelo general de interfaz de red. Los tamaño de palabra y protocolos de comunicación utilizados por el elemento de procesamiento modelan las líneas de transferencia de información con la interfaz de red. \relax }}{82}{figure.caption.38}}
+\newlabel{fig:ch4_interfaz_de_red_top}{{5.9}{82}{Interfaz de red. a) la interfaz de red se conecta al encaminador como un vecino más de la red. b) modelo general de interfaz de red. Los tamaño de palabra y protocolos de comunicación utilizados por el elemento de procesamiento modelan las líneas de transferencia de información con la interfaz de red. \relax }{figure.caption.38}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}Interfaz de red}{82}{section.5.3}}
+\newlabel{sec:encaminador_de_red}{{5.3}{82}{Interfaz de red}{section.5.3}{}}
+\citation{chapter0:NIST:1977:DES}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.1}Caso de estudio: encriptador DES}{84}{subsection.5.3.1}}
+\newlabel{subsec:caso_de_estudio_encriptador_des}{{5.3.1}{84}{Caso de estudio: encriptador DES}{subsection.5.3.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.10}{\ignorespaces  Las líneas de comunicación entre interfaz y elemento de procesamiento están definidas para acoplarse al formato utilizado por el elemento funcional. En este ejemplo se favorece una interfaz con de carga paralela de datos. \relax }}{85}{figure.caption.39}}
+\newlabel{fig:ch4_interfaz_des}{{5.10}{85}{Las líneas de comunicación entre interfaz y elemento de procesamiento están definidas para acoplarse al formato utilizado por el elemento funcional. En este ejemplo se favorece una interfaz con de carga paralela de datos. \relax }{figure.caption.39}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.11}{\ignorespaces  Las líneas de comunicación entre interfaz y elemento de procesamiento están definidas para acoplarse al formato utilizado por el elemento funcional. En este ejemplo se favorece una interfaz con de carga paralela de datos. \relax }}{86}{figure.caption.40}}
+\newlabel{fig:ch4_bloque_entrada_des}{{5.11}{86}{Las líneas de comunicación entre interfaz y elemento de procesamiento están definidas para acoplarse al formato utilizado por el elemento funcional. En este ejemplo se favorece una interfaz con de carga paralela de datos. \relax }{figure.caption.40}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.12}{\ignorespaces  Bloque de salida de la interfaz de red para el encriptado DES. La unidad de control utiliza un mecanismo similar al de los módulos \textit  {control de enlace} para liberar el paquete desde su medio de almacenamiento interno. \relax }}{87}{figure.caption.41}}
+\newlabel{fig:ch4_bloque_salida_des}{{5.12}{87}{Bloque de salida de la interfaz de red para el encriptado DES. La unidad de control utiliza un mecanismo similar al de los módulos \textit {control de enlace} para liberar el paquete desde su medio de almacenamiento interno. \relax }{figure.caption.41}{}}
+\@setckpt{chapters/chapter5}{
+\setcounter{page}{89}
+\setcounter{equation}{0}
+\setcounter{enumi}{4}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{5}
+\setcounter{section}{3}
+\setcounter{subsection}{1}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{12}
+\setcounter{table}{0}
+\setcounter{parentequation}{0}
+\setcounter{AlgoLine}{0}
+\setcounter{algocfline}{1}
+\setcounter{algocfproc}{1}
+\setcounter{algocf}{1}
+\setcounter{lstnumber}{1}
+\setcounter{Item}{8}
+\setcounter{Hfootnote}{3}
+\setcounter{Hy@AnnotLevel}{0}
+\setcounter{bookmark@seq@number}{22}
+\setcounter{DefaultLines}{2}
+\setcounter{DefaultDepth}{0}
+\setcounter{L@lines}{0}
+\setcounter{L@depth}{0}
+\setcounter{ContinuedFloat}{0}
+\setcounter{subfigure}{0}
+\setcounter{subtable}{0}
+\setcounter{eu@}{0}
+\setcounter{eu@i}{0}
+\setcounter{mkern}{4}
+\setcounter{lofdepth}{1}
+\setcounter{lotdepth}{1}
+\setcounter{@pps}{0}
+\setcounter{@ppsavesec}{0}
+\setcounter{@ppsaveapp}{0}
+\setcounter{NAT@ctr}{0}
+\setcounter{r@tfl@t}{1}
+\setcounter{lstlisting}{0}
+\setcounter{section@level}{0}
+}

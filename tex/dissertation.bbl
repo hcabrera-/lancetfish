@@ -1,0 +1,455 @@
+\begin{thebibliography}{}
+
+\bibitem[Ahmadinia et~al., 2005]{chapter3:1509437}
+Ahmadinia, A., Bobda, C., Ding, J., Majer, M., Teich, J., Fekete, S., \&
+  van~der Veen, J. (2005).
+\newblock A practical approach for circuit routing on dynamic reconfigurable
+  devices.
+\newblock In {\em Rapid System Prototyping, 2005. (RSP 2005). The 16th IEEE
+  International Workshop on}  (pp.\ 84--90).
+
+\bibitem[Bahn \& Bagherzadeh, 2009]{chapter1:Bahn09ageneric}
+Bahn, J.~H. \& Bagherzadeh, N. (2009).
+\newblock A generic traffic model for on-chip interconnection networks.
+\newblock In {\em in The First International Workshop on Network-on-Chip
+  Architectures}.
+
+\bibitem[Benini \& De~Micheli, 2002]{chapter0:976921}
+Benini, L. \& De~Micheli, G. (2002).
+\newblock Networks on chips: a new soc paradigm.
+\newblock {\em Computer}, 35(1), 70--78.
+
+\bibitem[Bjerregaard \& Mahadevan,
+  2006]{chapter1:Bjerregaard:2006:SRP:1132952.1132953}
+Bjerregaard, T. \& Mahadevan, S. (2006).
+\newblock A survey of research and practices of network-on-chip.
+\newblock {\em ACM Comput. Surv.}, 38(1).
+
+\bibitem[Bobda \& Ahmadinia, 2005]{chapter3:1511976}
+Bobda, C. \& Ahmadinia, A. (2005).
+\newblock Dynamic interconnection of reconfigurable modules on reconfigurable
+  devices.
+\newblock {\em Design Test of Computers, IEEE}, 22(5), 443--451.
+
+\bibitem[Bobda et~al., 2005]{chapter3:1515715}
+Bobda, C., Ahmadinia, A., Majer, M., Teich, J., Fekete, S., \& van~der Veen, J.
+  (2005).
+\newblock Dynoc: A dynamic infrastructure for communication in dynamically
+  reconfugurable devices.
+\newblock In {\em Field Programmable Logic and Applications, 2005.
+  International Conference on}  (pp.\ 153--158).
+
+\bibitem[Boeri \& Auguin, 1993]{chapter1:192215}
+Boeri, F. \& Auguin, M. (1993).
+\newblock Opsila: a vector and parallel processor.
+\newblock {\em Computers, IEEE Transactions on}, 42(1), 76--82.
+
+\bibitem[Chawade et~al., 2012]{chapter2:Shubhangi:2012}
+Chawade, S.~D., Gaikwad, M.~A., \& Patrikar, R.~M. (2012).
+\newblock Article: Review of xy routing algorithm for network-on-chip
+  architecture.
+\newblock {\em International Journal of Computer Applications},
+  43(21/973-93-80867-69-8), 20--23.
+\newblock Full text available.
+
+\bibitem[Chopkar \& Gaikwad, 2013]{chapter1:Priyanka:2013:IJCA}
+Chopkar, P.~N. \& Gaikwad, M.~A. (2013).
+\newblock Article: Review of xy routing algorithm for 2d torus topology of noc
+  architecture.
+\newblock {\em IJCA Special Issue on Recent Trends in Engineering Technology},
+  RETRET, 22--26.
+\newblock Full text available.
+
+\bibitem[Cire\c{s}an et~al., 2011]{chapter0:Ciresan:2011:FHP:2283516.2283603}
+Cire\c{s}an, D.~C., Meier, U., Masci, J., Gambardella, L.~M., \& Schmidhuber,
+  J. (2011).
+\newblock Flexible, high performance convolutional neural networks for image
+  classification.
+\newblock In {\em Proceedings of the Twenty-Second International Joint
+  Conference on Artificial Intelligence - Volume Volume Two}, IJCAI'11  (pp.\
+  1237--1242).: AAAI Press.
+
+\bibitem[Concer et~al., 2009]{chapter1:5090764}
+Concer, N., Iamundo, S., \& Bononi, L. (2009).
+\newblock aequalized: A novel routing algorithm for the spidergon network on
+  chip.
+\newblock In {\em Design, Automation Test in Europe Conference Exhibition,
+  2009. DATE '09.}  (pp.\ 749--754).
+
+\bibitem[Coppola et~al., 2004]{chapter3:1411133}
+Coppola, M., Locatelli, R., Maruccia, G., Pieralisi, L., \& Scandurra, A.
+  (2004).
+\newblock Spidergon: a novel on-chip communication network.
+\newblock In {\em System-on-Chip, 2004. Proceedings. 2004 International
+  Symposium on}  (pp.\ 15--).
+
+\bibitem[Corporation, 2014]{chapter1:INTEL:QUARK:DS}
+Corporation, I. (2014).
+\newblock {\em Intel\textregistered Quark\texttrademark SoC X1000 Datasheet}.
+\newblock Santa Clara, CA, USA: Intel Corporation.
+
+\bibitem[Cota et~al., 2011]{chapter1:cota2011reliability}
+Cota, {\'E}., de~Morais~Amory, A., \& Lubaszewski, M.~S. (2011).
+\newblock {\em Reliability, Availability and Serviceability of
+  Networks-on-chip}.
+\newblock Springer Science \& Business Media.
+
+\bibitem[Daemen \& Rijmen, 2002]{chapter0:Daemen:2002:DR:560131}
+Daemen, J. \& Rijmen, V. (2002).
+\newblock {\em The Design of Rijndael}.
+\newblock Secaucus, NJ, USA: Springer-Verlag New York, Inc.
+
+\bibitem[Dally \& Towles, 2003]{chapter1:Dally:2003:PPI:995703}
+Dally, W. \& Towles, B. (2003).
+\newblock {\em Principles and Practices of Interconnection Networks}.
+\newblock San Francisco, CA, USA: Morgan Kaufmann Publishers Inc.
+
+\bibitem[Deslauriers et~al., 2006]{chapter3:4016946}
+Deslauriers, F., Langevin, M., Bois, G., Savaria, Y., \& Paulin, P. (2006).
+\newblock Roc: A scalable network on chip based on the token ring concept.
+\newblock In {\em Circuits and Systems, 2006 IEEE North-East Workshop on}
+  (pp.\ 157--157).
+
+\bibitem[Duato et~al., 2001]{chapter2:Duato:2001:CRA:372836.372856}
+Duato, J., Robles, A., Silla, F., \& Beivide, R. (2001).
+\newblock A comparison of router architectures for virtual cut-through and
+  wormhole switching in a now environment.
+\newblock {\em J. Parallel Distrib. Comput.}, 61(2), 224--253.
+
+\bibitem[Duato et~al., 2002]{chapter1:Duato:2002:INE:572400}
+Duato, J., Yalamanchili, S., \& Lionel, N. (2002).
+\newblock {\em Interconnection Networks: An Engineering Approach}.
+\newblock San Francisco, CA, USA: Morgan Kaufmann Publishers Inc.
+
+\bibitem[Dye, 2012]{chapter3:PR:Xilinx}
+Dye, D. (2012).
+\newblock {\em Partial Reconfiguration of Xilinx FPGAs Using ISE Design Suite
+  (WP374)}.
+\newblock San Jose, CA, USA: Xilinx Inc.
+
+\bibitem[Flynn, 1972]{chapter1:Flynn:1972:COE:1952456.1952459}
+Flynn, M.~J. (1972).
+\newblock Some computer organizations and their effectiveness.
+\newblock {\em IEEE Trans. Comput.}, 21(9), 948--960.
+
+\bibitem[Foundation, 2007]{chapter0:gplv3}
+Foundation, F.~S. (2007).
+\newblock Gnu general public license v3. (gpl v3).
+
+\bibitem[Glass \& Ni, 1998]{chapter2:Glass:1998:TMA:285930.286003}
+Glass, C.~J. \& Ni, L.~M. (1998).
+\newblock The turn model for adaptive routing.
+\newblock In {\em 25 Years of the International Symposia on Computer
+  Architecture (Selected Papers)}, ISCA '98  (pp.\ 441--450).  New York, NY,
+  USA: ACM.
+
+\bibitem[Hadjiat et~al., 2007]{chapter3:4511160}
+Hadjiat, K., St-Pierre, F., Bois, G., Savaria, Y., Langevin, M., \& Paulin, P.
+  (2007).
+\newblock An fpga implementation of a scalable network-on-chip based on the
+  token ring concept.
+\newblock In {\em Electronics, Circuits and Systems, 2007. ICECS 2007. 14th
+  IEEE International Conference on}  (pp.\ 995--998).
+
+\bibitem[Hassen \& Amiri, 2013]{chapter0:6701287}
+Hassen, W. \& Amiri, H. (2013).
+\newblock Block matching algorithms for motion estimation.
+\newblock In {\em e-Learning in Industrial Electronics (ICELIE), 2013 7th IEEE
+  International Conference on}  (pp.\ 136--139).
+
+\bibitem[Hilton \& Nelson, 2005]{chapter3:1515721}
+Hilton, C. \& Nelson, B. (2005).
+\newblock A flexible circuit switched noc for fpga based systems.
+\newblock In {\em Field Programmable Logic and Applications, 2005.
+  International Conference on}  (pp.\ 191--196).
+
+\bibitem[Hilton \& Nelson, 2006]{chapter3:1626510}
+Hilton, C. \& Nelson, B. (2006).
+\newblock Pnoc: a flexible circuit-switched noc for fpga-based systems.
+\newblock {\em Computers and Digital Techniques, IEE Proceedings -}, 153(3),
+  181--188.
+
+\bibitem[Hubel \& Wiesel, 1959]{chapter0:TJP:TJP19591483574}
+Hubel, D.~H. \& Wiesel, T.~N. (1959).
+\newblock Receptive fields of single neurones in the cat's striate cortex.
+\newblock {\em The Journal of Physiology}, 148(3), 574--591.
+
+\bibitem[Hunt \& Rowson, 1996]{chapter1:542273}
+Hunt, M. \& Rowson, J. (1996).
+\newblock Blocking in a system on a chip.
+\newblock {\em Spectrum, IEEE}, 33(11), 35--41.
+
+\bibitem[Inc., 2015a]{chapter1:ADAPTEVA:HOME}
+Inc., A. (2015a).
+\newblock Adapteva inc. http://www.adapteva.com/.
+
+\bibitem[Inc., 2015b]{chapter0:NiosII:Altera}
+Inc., A. (2015b).
+\newblock {\em Nios II Gen2 Processor Reference Guide (NII5V1GEN2)}.
+\newblock San Jose, CA, USA: Altera Inc.
+
+\bibitem[Inc., 2014a]{chapter0:Xilinx:UG474}
+Inc., X. (2014a).
+\newblock {\em 7 Series FPGAs Configurable Logic Block User Guide (UG474)}.
+\newblock San Jose, CA, USA: Xilinx Inc.
+
+\bibitem[Inc., 2014b]{chapter0:Microblaze:Xilinx}
+Inc., X. (2014b).
+\newblock {\em MicroBlaze Processor Reference Guide (UG984)}.
+\newblock San Jose, CA, USA: Xilinx Inc.
+
+\bibitem[Inc., 2015c]{chapter0:Vivado:Xilinx}
+Inc., X. (2015c).
+\newblock {\em Vivado Design Suite User Guide - Using the Vivado IDE (UG893)}.
+\newblock San Jose, CA, USA: Xilinx Inc.
+
+\bibitem[Jaffe et~al., 2008]{chapter3:4526504}
+Jaffe, P., Clifford, G., \& Summers, J. (2008).
+\newblock Spacewire for operationally responsive space.
+\newblock In {\em Aerospace Conference, 2008 IEEE}  (pp.\ 1--5).
+
+\bibitem[Jalier et~al., 2010]{chapter1:Jalier:2010:HVH:1870926.1870971}
+Jalier, C., Lattard, D., Jerraya, A.~A., Sassatelli, G., Benoit, P., \& Torres,
+  L. (2010).
+\newblock Heterogeneous vs homogeneous mpsoc approaches for a mobile lte modem.
+\newblock In {\em Proceedings of the Conference on Design, Automation and Test
+  in Europe}, DATE '10  (pp.\ 184--189).  3001 Leuven, Belgium, Belgium:
+  European Design and Automation Association.
+
+\bibitem[Janarthanan et~al., 2007]{chapter3:4208959}
+Janarthanan, A., Swaminathan, V., \& Tomko, K. (2007).
+\newblock Mocres: an area-efficient multi-clock on-chip network for
+  reconfigurable systems.
+\newblock In {\em VLSI, 2007. ISVLSI '07. IEEE Computer Society Annual
+  Symposium on}  (pp.\ 455--456).
+
+\bibitem[Jovanovic et~al., 2007]{chapter3:4380761}
+Jovanovic, S., Tanougast, C., Weber, S., \& Bobda, C. (2007).
+\newblock Cunoc: A scalable dynamic noc for dynamically reconfigurable fpgas.
+\newblock In {\em Field Programmable Logic and Applications, 2007. FPL 2007.
+  International Conference on}  (pp.\ 753--756).
+
+\bibitem[Kempf et~al., 2011]{chapter1:kempf:2011:multiprocessor}
+Kempf, T., Ascheid, G., \& Leupers, R. (2011).
+\newblock {\em Multiprocessor Systems on Chip: Design Space Exploration}.
+\newblock SpringerLink : B{\"u}cher. Springer New York.
+
+\bibitem[Kermani \& Kleinrock, 1979]{chapter2:Kermani79:virtualcut-through}
+Kermani, P. \& Kleinrock, L. (1979).
+\newblock Virtual cut-through: a new computer communication switching
+  technique.
+\newblock {\em Computer Networks}, 3, 267--286.
+
+\bibitem[Kim \& El-Amawy, 1999]{chapter1:797400}
+Kim, J. \& El-Amawy, A. (1999).
+\newblock Performance and architectural features of segmented multiple bus
+  system.
+\newblock In {\em Parallel Processing, 1999. Proceedings. 1999 International
+  Conference on}  (pp.\ 154--161).
+
+\bibitem[Kwok \& Kwok, 2008]{chapter6:4536165}
+Kwok, T.-O. \& Kwok, Y.-K. (2008).
+\newblock On the design, control, and use of a reconfigurable heterogeneous
+  multi-core system-on-a-chip.
+\newblock In {\em Parallel and Distributed Processing, 2008. IPDPS 2008. IEEE
+  International Symposium on}  (pp.\ 1--11).
+
+\bibitem[Li \& Hammami, 2009]{chapter6:Li:2009:ADF:1592535.1740659}
+Li, X. \& Hammami, O. (2009).
+\newblock An automatic design flow for data parallel and pipelined signal
+  processing applications on embedded multiprocessor with noc: Application to
+  cryptography.
+\newblock {\em Int. J. Reconfig. Comput.}, 2009, 5:2--5:2.
+
+\bibitem[Mahmud, 1989]{chapter1:100306}
+Mahmud, S. (1989).
+\newblock Communication performance in a hierarchical bus system.
+\newblock In {\em Circuits and Systems, 1989., IEEE International Symposium on}
+   (pp.\ 122--125 vol.1).
+
+\bibitem[Mao et~al., 2009]{chapter3:5197252}
+Mao, C., Guan, Y., \& Zhang, J. (2009).
+\newblock On-board spacewire router for space mission.
+\newblock In {\em Information Processing, 2009. APCIP 2009. Asia-Pacific
+  Conference on}, volume~2  (pp.\ 525--528).
+
+\bibitem[Mas \& Martin, 2004]{chapter0:1347918}
+Mas, G. \& Martin, P. (2004).
+\newblock Network-on-chip: the intelligence is in the wire.
+\newblock In {\em Computer Design: VLSI in Computers and Processors, 2004. ICCD
+  2004. Proceedings. IEEE International Conference on}  (pp.\ 174--177).
+
+\bibitem[Mello et~al., 2005]{chapter1:Mello:2005:VCN:1081081.1081128}
+Mello, A., Tedesco, L., Calazans, N., \& Moraes, F. (2005).
+\newblock Virtual channels in networks on chip: Implementation and evaluation
+  on hermes noc.
+\newblock In {\em Proceedings of the 18th Annual Symposium on Integrated
+  Circuits and System Design}, SBCCI '05  (pp.\ 178--183).  New York, NY, USA:
+  ACM.
+
+\bibitem[Moadeli et~al., 2009a]{chapter3:5161210}
+Moadeli, M., Maji, P., \& Vanderbauwhede, W. (2009a).
+\newblock Design and implementation of the quarc network on-chip.
+\newblock In {\em Parallel Distributed Processing, 2009. IPDPS 2009. IEEE
+  International Symposium on}  (pp.\ 1--9).
+
+\bibitem[Moadeli et~al., 2009b]{chapter3:5076186}
+Moadeli, M., Maji, P., \& Vanderbauwhede, W. (2009b).
+\newblock Quarc: A high-efficiency network on-chip architecture.
+\newblock In {\em Advanced Information Networking and Applications, 2009. AINA
+  '09. International Conference on}  (pp.\ 98--105).
+
+\bibitem[Moadeli et~al., 2007]{chapter3:4221002}
+Moadeli, M., Shahrabi, A., Vanderbauwhede, W., \& Ould-Khaoua, M. (2007).
+\newblock An analytical performance model for the spidergon noc.
+\newblock In {\em Advanced Information Networking and Applications, 2007. AINA
+  '07. 21st International Conference on}  (pp.\ 1014--1021).
+
+\bibitem[Moadeli et~al., 2008a]{chapter3:4724416}
+Moadeli, M., Vanderbauwhede, W., \& Shahrabi, A. (2008a).
+\newblock A performance model of communication in the quarc noc.
+\newblock In {\em Parallel and Distributed Systems, 2008. ICPADS '08. 14th IEEE
+  International Conference on}  (pp.\ 908--913).
+
+\bibitem[Moadeli et~al., 2008b]{chapter3:4724383}
+Moadeli, M., Vanderbauwhede, W., \& Shahrabi, A. (2008b).
+\newblock Quarc: A novel network-on-chip architecture.
+\newblock In {\em Parallel and Distributed Systems, 2008. ICPADS '08. 14th IEEE
+  International Conference on}  (pp.\ 705--712).
+
+\bibitem[Moraes et~al., 2004]{chapter3:Moraes200469}
+Moraes, F., Calazans, N., Mello, A., Möller, L., \& Ost, L. (2004).
+\newblock Hermes: an infrastructure for low area overhead packet-switching
+  networks on chip.
+\newblock {\em Integration, the \{VLSI\} Journal}, 38(1), 69 -- 93.
+
+\bibitem[{National Institute of Standards and Technology},
+  1977]{chapter0:NIST:1977:DES}
+{National Institute of Standards and Technology} (1977).
+\newblock {\em {FIPS PUB 46}: Data Encryption Standard}.
+\newblock National Institute of Standards and Technology.
+
+\bibitem[Osterloh et~al., 2010]{chapter3:5546220}
+Osterloh, B., Michalik, H., Fiethe, B., \& Bubenhagen, F. (2010).
+\newblock Architecture verification of the socwire noc approach for safe
+  dynamic partial reconfiguration in space applications.
+\newblock In {\em Adaptive Hardware and Systems (AHS), 2010 NASA/ESA Conference
+  on}  (pp.\ 1--8).
+
+\bibitem[Osterloh et~al., 2008]{chapter3:584254}
+Osterloh, B., Michalik, H., Fiethe, B., \& Kotarowski, K. (2008).
+\newblock Socwire: A network-on-chip approach for reconfigurable system-on-chip
+  designs in space applications.
+\newblock In {\em Adaptive Hardware and Systems, 2008. AHS '08. NASA/ESA
+  Conference on}  (pp.\ 51--56).
+
+\bibitem[Palesi \& Daneshtalab, 2013]{chapter1:Palesi:2013:RAN:2556370}
+Palesi, M. \& Daneshtalab, M. (2013).
+\newblock {\em Routing Algorithms in Networks-on-Chip}.
+\newblock Springer Publishing Company, Incorporated.
+
+\bibitem[Parkes, 2008]{chapter3:4584258}
+Parkes, S. (2008).
+\newblock Spacewire for adaptive systems.
+\newblock In {\em Adaptive Hardware and Systems, 2008. AHS '08. NASA/ESA
+  Conference on}  (pp.\ 77--82).
+
+\bibitem[Parkes \& Armbruster, 2005]{chapter3:1547397}
+Parkes, S. \& Armbruster, P. (2005).
+\newblock Spacewire: a spacecraft onboard network for real-time communications.
+\newblock In {\em Real Time Conference, 2005. 14th IEEE-NPSS}  (pp.\ 6--10).
+
+\bibitem[Perry, 1989]{chapter1:Perry:1989:ISO:66234.66236}
+Perry, T.~S. (1989).
+\newblock Intel's secret is out.
+\newblock {\em IEEE Spectr.}, 26(4), 22--28.
+
+\bibitem[Pionteck et~al., 2006]{chapter3:4100970}
+Pionteck, T., Koch, R., \& Albrecht, C. (2006).
+\newblock Applying partial reconfiguration to networks-on-chips.
+\newblock In {\em Field Programmable Logic and Applications, 2006. FPL '06.
+  International Conference on}  (pp.\ 1--6).
+
+\bibitem[Rakow et~al., 2006]{chapter3:1655950}
+Rakow, G., Schnurr, R., \& Parkes, S. (2006).
+\newblock Spacewire protocol id: what does it means to you?
+\newblock In {\em Aerospace Conference, 2006 IEEE}  (pp.\ 7 pp.--).
+
+\bibitem[Rincon et~al., 1997]{chapter1:632878}
+Rincon, A., Cherichetti, G., Monzel, J., Stauffer, D., \& Trick, M. (1997).
+\newblock Core design and system-on-a-chip integration.
+\newblock {\em Design Test of Computers, IEEE}, 14(4), 26--35.
+
+\bibitem[Romine, 1992]{chapter3:Romine:1992:DSM:143487}
+Romine, P.~L. (1992).
+\newblock {\em A Dynamically Segmented Multiple Bus Architecture}.
+\newblock PhD thesis, Huntsville, AL, USA.
+\newblock UMI Order No. GAX92-29495.
+
+\bibitem[Saban, 2012]{chapter2:SSI:Xilinx}
+Saban, K. (2012).
+\newblock {\em Xilinx Stacked Silicon Interconnect Technology Delivers
+  Breakthrough FPGA Capacity, Bandwidth, and Power Efficiency (WP380)}.
+\newblock San Jose, CA, USA: Xilinx Inc.
+
+\bibitem[Sadawarte et~al., 2011]{chapter1:Sadawarte:2011:CSS:1947940.1947992}
+Sadawarte, Y.~A., Gaikwad, M.~A., \& Patrikar, R.~M. (2011).
+\newblock Comparative study of switching techniques for network-on-chip
+  architecture.
+\newblock In {\em Proceedings of the 2011 International Conference on
+  Communication, Computing and Security}, ICCCS '11  (pp.\ 243--246).  New
+  York, NY, USA: ACM.
+
+\bibitem[Saleh, 2005]{chapter0:1511986}
+Saleh, R. (2005).
+\newblock An approach that will noc your socs off!
+\newblock {\em Design Test of Computers, IEEE}, 22(5), 488--488.
+
+\bibitem[Shannon, 1949]{chapter0:6769090}
+Shannon, C. (1949).
+\newblock Communication theory of secrecy systems.
+\newblock {\em Bell System Technical Journal, The}, 28(4), 656--715.
+
+\bibitem[Shin \& Daniel, 1996]{chapter2:Shin:1996:AIH:232665.232669}
+Shin, K.~G. \& Daniel, S.~W. (1996).
+\newblock Analysis and implementation of hybrid switching.
+\newblock {\em IEEE Trans. Comput.}, 45(6), 684--692.
+
+\bibitem[Tota et~al., 2009]{chapter1:Tota:2009:CSN:1643330.1643337}
+Tota, S.~V., Casu, M.~R., Roch, M.~R., Macchiarulo, L., \& Zamboni, M. (2009).
+\newblock A case study for noc-based homogeneous mpsoc architectures.
+\newblock {\em IEEE Trans. Very Large Scale Integr. Syst.}, 17(3), 384--388.
+
+\bibitem[Wiegand et~al., 2003]{chapter1:1218189}
+Wiegand, T., Sullivan, G., Bjontegaard, G., \& Luthra, A. (2003).
+\newblock Overview of the h.264/avc video coding standard.
+\newblock {\em Circuits and Systems for Video Technology, IEEE Transactions
+  on}, 13(7), 560--576.
+
+\bibitem[Yang et~al., 2009]{chapter6:5070729}
+Yang, Y.~S., Bahn, J.~H., Lee, S.~E., \& Bagherzadeh, N. (2009).
+\newblock Parallel and pipeline processing for block cipher algorithms on a
+  network-on-chip.
+\newblock In {\em Information Technology: New Generations, 2009. ITNG '09.
+  Sixth International Conference on}  (pp.\ 849--854).
+
+\bibitem[Yoon et~al., 2013]{chapter1:6663237}
+Yoon, Y.~J., Concer, N., Petracca, M., \& Carloni, L. (2013).
+\newblock Virtual channels and multiple physical networks: Two alternatives to
+  improve noc performance.
+\newblock {\em Computer-Aided Design of Integrated Circuits and Systems, IEEE
+  Transactions on}, 32(12), 1906--1919.
+
+\bibitem[Yuan et~al., 2013]{chapter6:6533881}
+Yuan, R., Ruan, S., \& Gotze, J. (2013).
+\newblock A practical noc design for parallel des computation.
+\newblock In {\em VLSI Design, Automation, and Test (VLSI-DAT), 2013
+  International Symposium on}  (pp.\ 1--4).
+
+\bibitem[Zeferino \& Susin, 2003]{chapter3:1232824}
+Zeferino, C. \& Susin, A. (2003).
+\newblock Socin: a parametric and scalable network-on-chip.
+\newblock In {\em Integrated Circuits and Systems Design, 2003. SBCCI 2003.
+  Proceedings. 16th Symposium on}  (pp.\ 169--174).
+
+\end{thebibliography}

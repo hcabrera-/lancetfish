@@ -1,0 +1,56 @@
+\select@language {spanish}
+\select@language {spanish}
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Objetivos}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Objetivos particulares}{2}{subsection.1.1.1}
+\contentsline {section}{\numberline {1.2}Motivación}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Desafíos}{7}{section.1.3}
+\contentsline {section}{\numberline {1.4}Contribuciones}{11}{section.1.4}
+\contentsline {section}{\numberline {1.5}Estructura de la tesis}{13}{section.1.5}
+\contentsline {section}{\numberline {1.6}Publicaciones}{14}{section.1.6}
+\contentsline {chapter}{\numberline {2}Fundamentos}{15}{chapter.2}
+\contentsline {section}{\numberline {2.1}Sistemas en-Chip}{16}{section.2.1}
+\contentsline {section}{\numberline {2.2}Redes de interconexión}{20}{section.2.2}
+\contentsline {section}{\numberline {2.3}Conceptos básicos de NoCs}{23}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Topología}{25}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Planificación de ruta}{28}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Estructura de mensajes}{30}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Control de flujo}{32}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Fuentes de consulta}{42}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}Modelo SPMD}{42}{section.2.4}
+\contentsline {chapter}{\numberline {3}Tópicos Específicos}{43}{chapter.3}
+\contentsline {section}{\numberline {3.1}Topología: Malla}{44}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Desempeño de una malla}{45}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Latencia de una malla}{48}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Control de flujo}{49}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Control de flujo basado en paquetes: Virtual Cut-Throught}{49}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Control a nivel de enlace basado en créditos}{51}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Planificación de ruta: \textit {Modelo basado en giros}}{54}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Grado de adaptabilidad}{57}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Algoritmo West First minimal}{57}{subsection.3.3.2}
+\contentsline {chapter}{\numberline {4}Trabajo relacionado}{61}{chapter.4}
+\contentsline {section}{\numberline {4.1}Redes en-chip en FPGA}{61}{section.4.1}
+\contentsline {chapter}{\numberline {5}Nodos}{69}{chapter.5}
+\contentsline {section}{\numberline {5.1}Protocolo de comunicacion}{70}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Formato de paquete}{70}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Protocolo de enlace}{73}{subsection.5.1.2}
+\contentsline {section}{\numberline {5.2}Arquitectura del router}{74}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Etapas de segmentación}{78}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Puerto de entrada}{80}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Crossbar}{84}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Segmento de Control de Crossbar}{85}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Puerto de Salida}{88}{subsection.5.2.5}
+\contentsline {section}{\numberline {5.3}Arquitectura de Interfaz de Red}{89}{section.5.3}
+\contentsline {section}{\numberline {5.4}Caso de Estudio: encriptador DES}{92}{section.5.4}
+\contentsline {chapter}{\numberline {6}Acelerador multi-núcleo}{96}{chapter.6}
+\contentsline {section}{\numberline {6.1}Concepto}{98}{section.6.1}
+\contentsline {section}{\numberline {6.2}Módulos propios del acelerador multi-núcleo}{104}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Nodo Frontera}{104}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Modulo Planificador de Ruta}{106}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}Andamiaje de validación}{111}{section.6.3}
+\contentsline {section}{\numberline {6.4}Pruebas}{115}{section.6.4}
+\contentsline {chapter}{\numberline {7}Resultados y conclusiones}{117}{chapter.7}
+\contentsline {subsection}{\numberline {7.0.1}Resultados de rendimiento}{119}{subsection.7.0.1}
+\contentsline {subsection}{\numberline {7.0.2}Conclusiones}{120}{subsection.7.0.2}
+\contentsline {chapter}{Referencias}{132}{chapter*.69}

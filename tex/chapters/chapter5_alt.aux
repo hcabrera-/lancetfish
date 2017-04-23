@@ -1,0 +1,117 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\citation{chapter0:NIST:1977:DES}
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Nodos}{69}{chapter.5}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{chap:nodo_de_red}{{5}{69}{Nodos}{chapter.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces  Cada nodo de red es una isla de procesamiento en el acelerador. Las líneas de interconexión entre nodos se denominan canales. EP: Elemento de procesamiento, IR: Interfaz de red y NR: Nodo Rebotador. \relax }}{70}{figure.caption.31}}
+\newlabel{fig:ch4_nodo}{{5.1}{70}{Cada nodo de red es una isla de procesamiento en el acelerador. Las líneas de interconexión entre nodos se denominan canales. EP: Elemento de procesamiento, IR: Interfaz de red y NR: Nodo Rebotador. \relax }{figure.caption.31}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Protocolo de comunicacion}{70}{section.5.1}}
+\newlabel{sec:protocolo_comunicacion}{{5.1}{70}{Protocolo de comunicacion}{section.5.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1.1}Formato de paquete}{70}{subsection.5.1.1}}
+\newlabel{subsec:formato_de_paquete}{{5.1.1}{70}{Formato de paquete}{subsection.5.1.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces  No existe una restricción en el número de flits para el transporte de información dentro de un paquete, sin embargo, el incremento de estas unidades de transporte acarrea consigo una mayor congestión en la red además de un incremento en la cantidad de almacenamiento temporal requerido por cada uno de los puertos del encaminador. El flit de cabecera contiene la información necesaria para permitir que un paquete sea entregado a su destino. \relax }}{71}{figure.caption.32}}
+\newlabel{fig:ch4_organizacion_paquete}{{5.2}{71}{No existe una restricción en el número de flits para el transporte de información dentro de un paquete, sin embargo, el incremento de estas unidades de transporte acarrea consigo una mayor congestión en la red además de un incremento en la cantidad de almacenamiento temporal requerido por cada uno de los puertos del encaminador. El flit de cabecera contiene la información necesaria para permitir que un paquete sea entregado a su destino. \relax }{figure.caption.32}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.3}{\ignorespaces  Formato de flit de cabecera. El uso del campo \textit  {origen} permite la implementación de algoritmos de encaminamiento basados en el modelo \textit  {odd-even}. En caso de omitir el uso del campo origen durante el proceso de planificación de ruta, su espacio puede anexarse al campo \textit  {usuario} para ampliar su longitud. \relax }}{72}{figure.caption.33}}
+\newlabel{fig:ch4_flit_cabecera}{{5.3}{72}{Formato de flit de cabecera. El uso del campo \textit {origen} permite la implementación de algoritmos de encaminamiento basados en el modelo \textit {odd-even}. En caso de omitir el uso del campo origen durante el proceso de planificación de ruta, su espacio puede anexarse al campo \textit {usuario} para ampliar su longitud. \relax }{figure.caption.33}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1.2}Protocolo de enlace}{73}{subsection.5.1.2}}
+\newlabel{subsec:protocolo_de_enlace}{{5.1.2}{73}{Protocolo de enlace}{subsection.5.1.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.4}{\ignorespaces  El protocolo de comunicación involucra un intercambio de señales (\textit  {handshake}) de dos pasos. La transmisión inicia con la inversión de la señales del par diferencial (ciclo 2), el intercambio finaliza con la aserción de la señal rec\_crt la cual indica que el router destino tiene espacio disponible para la recepción de un paquete adicional. \relax }}{74}{figure.caption.34}}
+\newlabel{fig:ch4_w_protocolo_comunicacion}{{5.4}{74}{El protocolo de comunicación involucra un intercambio de señales (\textit {handshake}) de dos pasos. La transmisión inicia con la inversión de la señales del par diferencial (ciclo 2), el intercambio finaliza con la aserción de la señal rec\_crt la cual indica que el router destino tiene espacio disponible para la recepción de un paquete adicional. \relax }{figure.caption.34}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Arquitectura del router}{74}{section.5.2}}
+\newlabel{sec:arquitectura_router}{{5.2}{74}{Arquitectura del router}{section.5.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5.1}{\ignorespaces Unidades principales del encaminador.\relax }}{75}{table.caption.35}}
+\newlabel{tab:unidades_arq}{{5.1}{75}{Unidades principales del encaminador.\relax }{table.caption.35}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.5}{\ignorespaces  Diagrama general de un segmento de los caminos de control y datos entre un puerto de salida y uno de entrada. Glosario: UMPE - Unidad de Manejo de Protocolo de Entrada. UCPE - Unidad de Control de Puerto de Entrada. UCC - Unidad de Control de Crossbar. UMPS - Unidad de Manejo de Protocolo de Salida. SCC - Segmento de Control de Crossbar. UGP - Unidad de Generación de Peticiones. PDE - Puerto de Entrada. PDS - Puerto de Salida. \relax }}{76}{figure.caption.36}}
+\newlabel{fig:ch4_slice_arq}{{5.5}{76}{Diagrama general de un segmento de los caminos de control y datos entre un puerto de salida y uno de entrada. Glosario: UMPE - Unidad de Manejo de Protocolo de Entrada. UCPE - Unidad de Control de Puerto de Entrada. UCC - Unidad de Control de Crossbar. UMPS - Unidad de Manejo de Protocolo de Salida. SCC - Segmento de Control de Crossbar. UGP - Unidad de Generación de Peticiones. PDE - Puerto de Entrada. PDS - Puerto de Salida. \relax }{figure.caption.36}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.1}Etapas de segmentación}{78}{subsection.5.2.1}}
+\newlabel{etapas_segmentacion}{{5.2.1}{78}{Etapas de segmentación}{subsection.5.2.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.6}{\ignorespaces  El buffer dentro de un puerto de entrada funge como registro para el flit en transito durante el ciclo de reloj actual. \relax }}{79}{figure.caption.37}}
+\newlabel{fig:ch4_segmentacion_entrada_salida}{{5.6}{79}{El buffer dentro de un puerto de entrada funge como registro para el flit en transito durante el ciclo de reloj actual. \relax }{figure.caption.37}{}}
+\newlabel{eq:rtt}{{5.1}{79}{Etapas de segmentación}{equation.5.2.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.7}{\ignorespaces  Forma de onda del intercambio de un paquete entre dos routers. Se requiere de 8 ciclos de reloj para que un crédito realice un viaje redondo entre los dos routers. \relax }}{80}{figure.caption.38}}
+\newlabel{fig:ch4_rtt}{{5.7}{80}{Forma de onda del intercambio de un paquete entre dos routers. Se requiere de 8 ciclos de reloj para que un crédito realice un viaje redondo entre los dos routers. \relax }{figure.caption.38}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.2}Puerto de entrada}{80}{subsection.5.2.2}}
+\newlabel{puerto_entrada}{{5.2.2}{80}{Puerto de entrada}{subsection.5.2.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.8}{\ignorespaces  Todos los puertos de entrada del router son estructuras homogéneas, de manera que el IP es reutilizable y presenta el mismo comportamiento sin importar al canal que se encuentre asignado. \relax }}{81}{figure.caption.39}}
+\newlabel{fig:ch4_puerto_entrada}{{5.8}{81}{Todos los puertos de entrada del router son estructuras homogéneas, de manera que el IP es reutilizable y presenta el mismo comportamiento sin importar al canal que se encuentre asignado. \relax }{figure.caption.39}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5.2}{\ignorespaces Solo los estados definidos como 'activo' dispararan la propagación de peticiones a las unidades SCC del router. Los casos no definidos en la tabla mantienen deshabilitado el registro de la unidad CGP.\relax }}{82}{table.caption.40}}
+\newlabel{tab:CGP}{{5.2}{82}{Solo los estados definidos como 'activo' dispararan la propagación de peticiones a las unidades SCC del router. Los casos no definidos en la tabla mantienen deshabilitado el registro de la unidad CGP.\relax }{table.caption.40}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.9}{\ignorespaces  a) Maquina de estados finitos de entrada (MEFE). b) Maquina de estados finitos de salida (MEFS). \relax }}{83}{figure.caption.41}}
+\newlabel{fig:ch4_pde_fsm}{{5.9}{83}{a) Maquina de estados finitos de entrada (MEFE). b) Maquina de estados finitos de salida (MEFS). \relax }{figure.caption.41}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.10}{\ignorespaces  Cada unidad SCC genera el vector de control para cada uno de los segmentos del crossbar. Los segmentos están configurados para mantener sus lineas de salida en cero mientras no se encuentren paquetes en transito, la inclusión de una un valor constante no repercute en el numero de entradas al multiplexor, solo en la señales de control del mismo. \relax }}{84}{figure.caption.42}}
+\newlabel{fig:ch4_crossbar}{{5.10}{84}{Cada unidad SCC genera el vector de control para cada uno de los segmentos del crossbar. Los segmentos están configurados para mantener sus lineas de salida en cero mientras no se encuentren paquetes en transito, la inclusión de una un valor constante no repercute en el numero de entradas al multiplexor, solo en la señales de control del mismo. \relax }{figure.caption.42}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.3}Crossbar}{84}{subsection.5.2.3}}
+\newlabel{Crossbar}{{5.2.3}{84}{Crossbar}{subsection.5.2.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.11}{\ignorespaces  Las unidades SCC son responsables de mantener el control del numero de créditos disponibles en el router vecino inmediato, por lo cual reciben de manera directa la señal de recepción de créditos. El tiempo de proceso de un crédito es igual a un ciclo de reloj debido al cambio de estado de la maquina de estados finito que se encarga de administrar el proceso. La señal 'pet\_vec' representa el vector formado por todas las peticiones enviadas a la unidad SCC desde los puertos de entrada ligados a ella. \relax }}{85}{figure.caption.43}}
+\newlabel{fig:ch4_unidad_scc}{{5.11}{85}{Las unidades SCC son responsables de mantener el control del numero de créditos disponibles en el router vecino inmediato, por lo cual reciben de manera directa la señal de recepción de créditos. El tiempo de proceso de un crédito es igual a un ciclo de reloj debido al cambio de estado de la maquina de estados finito que se encarga de administrar el proceso. La señal 'pet\_vec' representa el vector formado por todas las peticiones enviadas a la unidad SCC desde los puertos de entrada ligados a ella. \relax }{figure.caption.43}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.4}Segmento de Control de Crossbar}{85}{subsection.5.2.4}}
+\newlabel{scc}{{5.2.4}{85}{Segmento de Control de Crossbar}{subsection.5.2.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.12}{\ignorespaces  a) Implementación tradicional de arbitro con sistema de prioridad dinámica. b) Implementación de arbitro para dispositivos reconfigurables. La eliminación del ciclo combinacional en la cadena de acarreo del arbitro es necesario para su porte a dispositivos FPGA. \relax }}{87}{figure.caption.44}}
+\newlabel{fig:ch4_arbitro}{{5.12}{87}{a) Implementación tradicional de arbitro con sistema de prioridad dinámica. b) Implementación de arbitro para dispositivos reconfigurables. La eliminación del ciclo combinacional en la cadena de acarreo del arbitro es necesario para su porte a dispositivos FPGA. \relax }{figure.caption.44}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.5}Puerto de Salida}{88}{subsection.5.2.5}}
+\newlabel{Puerto_salida}{{5.2.5}{88}{Puerto de Salida}{subsection.5.2.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.13}{\ignorespaces  a) Maquina de estado finito de la unidad MEFCC. b) Maquina de estado finito para la unidad MEFMC. \relax }}{89}{figure.caption.45}}
+\newlabel{fig:ch4_fsm_scc}{{5.13}{89}{a) Maquina de estado finito de la unidad MEFCC. b) Maquina de estado finito para la unidad MEFMC. \relax }{figure.caption.45}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}Arquitectura de Interfaz de Red}{89}{section.5.3}}
+\newlabel{sec:arq_ir}{{5.3}{89}{Arquitectura de Interfaz de Red}{section.5.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.14}{\ignorespaces  Interfaz de red. a) la interfaz de red se conecta al encaminador como un vecino más de la red. b) Las unidades UCBDE y UCBDS son versiones modificadas de la unidad UCPE del puerto de entrada. \relax }}{90}{figure.caption.46}}
+\newlabel{fig:ch4_interfaz_de_red_top}{{5.14}{90}{Interfaz de red. a) la interfaz de red se conecta al encaminador como un vecino más de la red. b) Las unidades UCBDE y UCBDS son versiones modificadas de la unidad UCPE del puerto de entrada. \relax }{figure.caption.46}{}}
+\citation{chapter0:NIST:1977:DES}
+\@writefile{toc}{\contentsline {section}{\numberline {5.4}Caso de Estudio: encriptador DES}{92}{section.5.4}}
+\newlabel{sec:caso_des}{{5.4}{92}{Caso de Estudio: encriptador DES}{section.5.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.15}{\ignorespaces  Las líneas de comunicación entre interfaz y elemento de procesamiento están definidas para acoplarse al formato utilizado por el elemento funcional. En este ejemplo se favorece una interfaz con de carga paralela de datos. \relax }}{93}{figure.caption.47}}
+\newlabel{fig:ch4_interfaz_des}{{5.15}{93}{Las líneas de comunicación entre interfaz y elemento de procesamiento están definidas para acoplarse al formato utilizado por el elemento funcional. En este ejemplo se favorece una interfaz con de carga paralela de datos. \relax }{figure.caption.47}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.16}{\ignorespaces  Las líneas de comunicación entre interfaz y elemento de procesamiento están definidas para acoplarse al formato utilizado por el elemento funcional. En este ejemplo se favorece una interfaz con carga de datos paralela. \relax }}{94}{figure.caption.48}}
+\newlabel{fig:ch4_bloque_entrada_des}{{5.16}{94}{Las líneas de comunicación entre interfaz y elemento de procesamiento están definidas para acoplarse al formato utilizado por el elemento funcional. En este ejemplo se favorece una interfaz con carga de datos paralela. \relax }{figure.caption.48}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.17}{\ignorespaces  Unidad UODS. \relax }}{95}{figure.caption.49}}
+\newlabel{fig:ch4_bloque_salida_des}{{5.17}{95}{Unidad UODS. \relax }{figure.caption.49}{}}
+\@setckpt{chapters/chapter5_alt}{
+\setcounter{page}{96}
+\setcounter{equation}{1}
+\setcounter{enumi}{5}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{2}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{5}
+\setcounter{section}{4}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{17}
+\setcounter{table}{2}
+\setcounter{parentequation}{0}
+\setcounter{AlgoLine}{0}
+\setcounter{algocfline}{1}
+\setcounter{algocfproc}{1}
+\setcounter{algocf}{1}
+\setcounter{lstnumber}{1}
+\setcounter{Item}{13}
+\setcounter{Hfootnote}{5}
+\setcounter{Hy@AnnotLevel}{0}
+\setcounter{bookmark@seq@number}{23}
+\setcounter{DefaultLines}{2}
+\setcounter{DefaultDepth}{0}
+\setcounter{L@lines}{0}
+\setcounter{L@depth}{0}
+\setcounter{ContinuedFloat}{0}
+\setcounter{subfigure}{0}
+\setcounter{subtable}{0}
+\setcounter{eu@}{0}
+\setcounter{eu@i}{0}
+\setcounter{mkern}{4}
+\setcounter{lofdepth}{1}
+\setcounter{lotdepth}{1}
+\setcounter{@pps}{0}
+\setcounter{@ppsavesec}{0}
+\setcounter{@ppsaveapp}{0}
+\setcounter{NAT@ctr}{0}
+\setcounter{r@tfl@t}{1}
+\setcounter{lstlisting}{0}
+\setcounter{section@level}{0}
+}

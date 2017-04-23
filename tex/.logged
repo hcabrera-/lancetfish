@@ -1,0 +1,1841 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2015.11.15)  17 JAN 2016 02:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**dissertation
+(./dissertation.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(./Dissertate.cls
+Document Class: Dissertate 2014/03/25 v2.0 Dissertate Class
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Invalid UTF-8 byte or sequence at line 164 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 414 replaced by U+FFFD.
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count89
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+********************************************************
+Package `algorithm2e' Release 5.0 -- january 06 2013 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (cfiorio@um2.fr)
+********************************************************
+\skiptotal=\skip43
+\skiplinenumber=\skip44
+\skiprule=\skip45
+\skiphlne=\skip46
+\skiptext=\skip47
+\skiplength=\skip48
+\algomargin=\skip49
+\skipalgocfslide=\skip50
+\algowidth=\dimen103
+\inoutsize=\dimen104
+\inoutindent=\dimen105
+\interspacetitleruled=\dimen106
+\interspacealgoruled=\dimen107
+\interspacetitleboxruled=\dimen108
+\algocf@inoutbox=\box26
+\algocf@inputbox=\box27
+\AlCapSkip=\skip51
+\AlCapHSkip=\skip52
+\algoskipindent=\skip53
+\algocf@nlbox=\box28
+\algocf@hangingbox=\box29
+\algocf@untilbox=\box30
+\algocf@skipuntil=\skip54
+\algocf@capbox=\box31
+\algoheightruledefault=\skip55
+\algoheightrule=\skip56
+\algotitleheightruledefault=\skip57
+\algotitleheightrule=\skip58
+\c@algocfline=\count90
+\c@algocfproc=\count91
+\c@algocf=\count92
+\algocf@algoframe=\box32
+\algocf@algobox=\box33
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count93
+\lst@gtempboxa=\box34
+\lst@token=\toks15
+\lst@length=\count94
+\lst@currlwidth=\dimen109
+\lst@column=\count95
+\lst@pos=\count96
+\lst@lostspace=\dimen110
+\lst@width=\dimen111
+\lst@newlines=\count97
+\lst@lineno=\count98
+\lst@maxwidth=\dimen112
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count99
+\lst@skipnumbers=\count100
+\lst@framebox=\box35
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2014/07/16 v1.15 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count101
+\calc@Bcount=\count102
+\calc@Adimen=\dimen113
+\calc@Bdimen=\dimen114
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count103
+\calc@Cskip=\skip61
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip62
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen115
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen116
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count104
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count105
+\leftroot@=\count106
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count107
+\DOTSCASE@=\count108
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box36
+\strutbox@=\box37
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count109
+\c@MaxMatrixCols=\count110
+\dotsspace@=\muskip10
+\c@parentequation=\count111
+\dspbrk@lvl=\count112
+\tag@help=\toks17
+\row@=\count113
+\column@=\count114
+\maxfields@=\count115
+\andhelp@=\toks18
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks19
+\multlinegap=\skip63
+\multlinetaggap=\skip64
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count116
+\l_MT_multwidth_dim=\dimen124
+\origjot=\skip65
+\l_MT_shortvdotswithinadjustabove_dim=\dimen125
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen126
+\l_MT_above_intertext_sep=\dimen127
+\l_MT_below_intertext_sep=\dimen128
+\l_MT_above_shortintertext_sep=\dimen129
+\l_MT_below_shortintertext_sep=\dimen130
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen131
+\Hy@linkcounter=\count117
+\Hy@pagecounter=\count118
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count119
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count120
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen132
+\Fld@menulength=\count121
+\Field@Width=\dimen133
+\Fld@charsize=\dimen134
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count122
+\c@Item=\count123
+\c@Hfootnote=\count124
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2012/11/06 v6.83m Hyperref driver for XeTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box38
+\c@Hy@AnnotLevel=\count125
+\HyField@AnnotCount=\count126
+\Fld@listcount=\count127
+\c@bookmark@seq@number=\count128
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip66
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count129
+\Gm@cntv=\count130
+\c@Gm@tempcnt=\count131
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip67
+\RaggedLeftLeftskip=\skip68
+\RaggedRightLeftskip=\skip69
+\CenteringRightskip=\skip70
+\RaggedLeftRightskip=\skip71
+\RaggedRightRightskip=\skip72
+\CenteringParfillskip=\skip73
+\RaggedLeftParfillskip=\skip74
+\RaggedRightParfillskip=\skip75
+\JustifyingParfillskip=\skip76
+\CenteringParindent=\skip77
+\RaggedLeftParindent=\skip78
+\RaggedRightParindent=\skip79
+\JustifyingParindent=\skip80
+)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2011/10/22 v5.1d context-sensitive quotations
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count132
+)
+\etb@tempcnta=\count133
+)
+\csq@reset=\count134
+\csq@gtype=\count135
+\csq@glevel=\count136
+\csq@qlevel=\count137
+\csq@maxlvl=\count138
+\csq@tshold=\count139
+\csq@ltx@everypar=\toks22
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2011/10/22 v5.1d csquotes generic definitions
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2014/07/25 v4.03 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2014/09/29 v1.1s fixes to LaTeX
+LaTeX Info: Redefining \em on input line 430.
+LaTeX Info: The control sequence `\(' is already robust on input line 479.
+LaTeX Info: The control sequence `\)' is already robust on input line 480.
+LaTeX Info: The control sequence `\[' is already robust on input line 481.
+LaTeX Info: The control sequence `\]' is already robust on input line 482.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2014/09/16 v1.70 (Daniel Flipo)
+\c@DefaultLines=\count140
+\c@DefaultDepth=\count141
+\DefaultFindent=\dimen145
+\DefaultNindent=\dimen146
+\DefaultSlope=\dimen147
+\L@lbox=\box39
+\L@tbox=\box40
+\c@L@lines=\count142
+\c@L@depth=\count143
+\L@Pindent=\dimen148
+\L@Findent=\dimen149
+\L@Nindent=\dimen150
+\L@lraise=\dimen151
+\L@first=\dimen152
+\L@next=\dimen153
+\L@slope=\dimen154
+\L@height=\dimen155
+\LettrineWidth=\dimen156
+\LettrineHeight=\dimen157
+\LettrineDepth=\dimen158
+
+Loading lettrine.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen159
+\epsfysize=\dimen160
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psfrag/psfrag.sty
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+\pfg@pcount=\count144
+\pfg@scount=\count145
+\pfg@temp=\write3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen161
+\captionmargin@=\dimen162
+\captionwidth=\dimen163
+\caption@tempdima=\dimen164
+\caption@indent=\dimen165
+\caption@parindent=\dimen166
+\caption@hangindent=\dimen167
+)
+\c@ContinuedFloat=\count146
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count147
+\c@subtable=\count148
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 137.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/xelatex/mathspec/mathspec.sty
+Package: mathspec 2009/09/30 v0.2 LaTeX Package (Mathematics font selection for
+ XeLaTeX)
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2014/09/15 v5423 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2014/09/15 v5423 L3 programming layer (code) 
+L3 Module: l3bootstrap 2014/08/23 v5354 L3 Bootstrap code
+L3 Module: l3names 2014/08/22 v5343 L3 Namespace for primitives
+L3 Module: l3basics 2014/08/24 v5364 L3 Basic definitions
+L3 Module: l3expan 2014/08/22 v5349 L3 Argument expansion
+L3 Module: l3tl 2014/08/24 v5359 L3 Token lists
+L3 Module: l3str 2014/08/24 v5368 L3 Strings
+L3 Module: l3seq 2014/08/23 v5354 L3 Sequences and stacks
+L3 Module: l3int 2014/09/14 v5421 L3 Integers
+\c_max_int=\count149
+\l_tmpa_int=\count150
+\l_tmpb_int=\count151
+\g_tmpa_int=\count152
+\g_tmpb_int=\count153
+L3 Module: l3quark 2014/08/23 v5354 L3 Quarks
+L3 Module: l3prg 2014/08/23 v5354 L3 Control structures
+\g__prg_map_int=\count154
+L3 Module: l3clist 2014/08/23 v5354 L3 Comma separated lists
+L3 Module: l3token 2014/09/15 v5422 L3 Experimental token manipulation
+L3 Module: l3prop 2014/08/23 v5354 L3 Property lists
+L3 Module: l3msg 2014/08/24 v5358 L3 Messages
+L3 Module: l3file 2014/08/24 v5369 L3 File and I/O operations
+\l_iow_line_count_int=\count155
+\l__iow_target_count_int=\count156
+\l__iow_current_line_int=\count157
+\l__iow_current_word_int=\count158
+\l__iow_current_indentation_int=\count159
+L3 Module: l3skip 2014/08/23 v5354 L3 Dimensions and skips
+\c_zero_dim=\dimen168
+\c_max_dim=\dimen169
+\l_tmpa_dim=\dimen170
+\l_tmpb_dim=\dimen171
+\g_tmpa_dim=\dimen172
+\g_tmpb_dim=\dimen173
+\c_zero_skip=\skip81
+\c_max_skip=\skip82
+\l_tmpa_skip=\skip83
+\l_tmpb_skip=\skip84
+\g_tmpa_skip=\skip85
+\g_tmpb_skip=\skip86
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+L3 Module: l3keys 2014/08/23 v5354 L3 Key-value interfaces
+\g__keyval_level_int=\count160
+\l_keys_choice_int=\count161
+L3 Module: l3fp 2014/08/22 v5336 L3 Floating points
+\c__fp_leading_shift_int=\count162
+\c__fp_middle_shift_int=\count163
+\c__fp_trailing_shift_int=\count164
+\c__fp_big_leading_shift_int=\count165
+\c__fp_big_middle_shift_int=\count166
+\c__fp_big_trailing_shift_int=\count167
+\c__fp_Bigg_leading_shift_int=\count168
+\c__fp_Bigg_middle_shift_int=\count169
+\c__fp_Bigg_trailing_shift_int=\count170
+L3 Module: l3box 2014/08/23 v5354 L3 Experimental boxes
+\c_empty_box=\box41
+\l_tmpa_box=\box42
+\l_tmpb_box=\box43
+\g_tmpa_box=\box44
+\g_tmpb_box=\box45
+L3 Module: l3coffins 2014/08/23 v5354 L3 Coffin code layer
+\l__coffin_internal_box=\box46
+\l__coffin_internal_dim=\dimen174
+\l__coffin_offset_x_dim=\dimen175
+\l__coffin_offset_y_dim=\dimen176
+\l__coffin_x_dim=\dimen177
+\l__coffin_y_dim=\dimen178
+\l__coffin_x_prime_dim=\dimen179
+\l__coffin_y_prime_dim=\dimen180
+\c_empty_coffin=\box47
+\l__coffin_aligned_coffin=\box48
+\l__coffin_aligned_internal_coffin=\box49
+\l_tmpa_coffin=\box50
+\l_tmpb_coffin=\box51
+\l__coffin_display_coffin=\box52
+\l__coffin_display_coord_coffin=\box53
+\l__coffin_display_pole_coffin=\box54
+\l__coffin_display_offset_dim=\dimen181
+\l__coffin_display_x_dim=\dimen182
+\l__coffin_display_y_dim=\dimen183
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3candidates 2014/08/24 v5366 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen184
+\l__box_bottom_dim=\dimen185
+\l__box_left_dim=\dimen186
+\l__box_right_dim=\dimen187
+\l__box_top_new_dim=\dimen188
+\l__box_bottom_new_dim=\dimen189
+\l__box_left_new_dim=\dimen190
+\l__box_right_new_dim=\dimen191
+\l__box_internal_box=\box55
+\l__coffin_bounding_shift_dim=\dimen192
+\l__coffin_left_corner_dim=\dimen193
+\l__coffin_right_corner_dim=\dimen194
+\l__coffin_bottom_corner_dim=\dimen195
+\l__coffin_top_corner_dim=\dimen196
+\l__coffin_scaled_total_height_dim=\dimen197
+\l__coffin_scaled_width_dim=\dimen198
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
+File: l3unicode-data.def 2014/08/12 v5276 L3 Unicode data
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2014/08/24 v5366 L3 Experimental driver: xdvipdfmx
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2014/09/15 v5423 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count171
+\l__xparse_m_args_int=\count172
+\l__xparse_mandatory_args_int=\count173
+\l__xparse_processor_int=\count174
+\l__xparse_v_nesting_int=\count175
+)
+\l_fontspec_script_int=\count176
+\l_fontspec_language_int=\count177
+\l_fontspec_strnum_int=\count178
+\l__fontspec_tmpa_dim=\dimen199
+\l__fontspec_tmpb_dim=\dimen200
+\l__fontspec_tmpc_dim=\dimen201
+Variant \tl_gset:cV already defined; not changing it on line 71
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
+Package: fontspec-patches 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLa
+TeX
+LaTeX Info: Redefining \em on input line 38.
+LaTeX Info: Redefining \emph on input line 46.
+LaTeX Info: Redefining \- on input line 49.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 144.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 148.
+.................................................
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLaTe
+X
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\tipaTiiicode=\count179
+\tipasavetokens=\toks25
+\tipachecktokens=\toks26
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 41.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 47.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 53.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 59.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 68.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 72.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 76.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 80.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 99.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 103.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 112.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 170.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 181.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 189.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 197.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 226.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 228.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 233.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 259.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 279.
+.................................................
+Variant \prop_gput:cnV already defined; not changing it on line 662
+Variant \prop_gput:cnx already defined; not changing it on line 663
+\l__fontspec_tmp_int=\count180
+LaTeX Info: Redefining \itshape on input line 2193.
+LaTeX Info: Redefining \slshape on input line 2198.
+LaTeX Info: Redefining \scshape on input line 2203.
+LaTeX Info: Redefining \upshape on input line 2208.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/05/25 v2.7 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
+)
+\XKV@depth=\count181
+File: xkeyval.tex 2014/05/25 v2.7 key=value parser (HA)
+))
+\c@eu@=\count182
+\c@eu@i=\count183
+\c@mkern=\count184
+)
+\g__file_internal_ior=\read2
+\g__fontspec_family_EBGaramond_int=\count185
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font EB Garamond/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'EBGaramond(0)' created for font 'EB Garamond' with options
+. [Numbers={Proportional}].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"EB Garamond/OT:script=latn;language=DFLT;+pnum;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->"EB Garamond/OT:script=latn;language=DFLT;+pnum;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. <->"EB Garamond/I/OT:script=latn;language=DFLT;+pnum;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->"EB Garamond/I/OT:script=latn;language=DFLT;+pnum;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"EB Garamond/BI/OT:script=latn;language=DFLT;+pnum;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. <->"EB Garamond/BI/OT:script=latn;language=DFLT;+pnum;+smcp;"
+. and font adjustment code:
+. 
+.................................................
+\symDigits:m:n=\mathgroup6
+\symLatin:m:n=\mathgroup7
+\symLatin:m:it=\mathgroup8
+\symGreek:m:n=\mathgroup9
+\symGreek:m:it=\mathgroup10
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font EB Garamond/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'EBGaramond(1)' created for font 'EB Garamond' with options [].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"EB Garamond/OT:script=latn;language=DFLT;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->"EB Garamond/OT:script=latn;language=DFLT;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. <->"EB Garamond/I/OT:script=latn;language=DFLT;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->"EB Garamond/I/OT:script=latn;language=DFLT;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"EB Garamond/BI/OT:script=latn;language=DFLT;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. <->"EB Garamond/BI/OT:script=latn;language=DFLT;+smcp;"
+. and font adjustment code:
+. 
+.................................................
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  EU1/EBGaramond(1)/m/n --> EU1/EBGaramond(1)/bx/n on inp
+ut line 47.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/EBGaramond(1)/m/it on input line 4
+7.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/EBGaramond(1)/m/it on input line 
+47.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/EBGaramond(1)/bx/n on input line 4
+7.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/EBGaramond(1)/bx/n on input line 4
+7.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  EU1/EBGaramond(1)/m/it --> EU1/EBGaramond(1)/bx/it on i
+nput line 47.
+\symOperators:m:n=\mathgroup11
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font EB Garamond/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'EBGaramond(2)' created for font 'EB Garamond' with options
+. [Ligatures=TeX,Numbers=OldStyle,Ligatures={Common, TeX},Scale=1.0].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->s*[1.0]"EB
+. Garamond/OT:script=latn;language=DFLT;mapping=tex-text;+onum;+liga;mapping=te
+x-text;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->s*[1.0]"EB
+. Garamond/OT:script=latn;language=DFLT;mapping=tex-text;+onum;+liga;mapping=te
+x-text;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. <->s*[1.0]"EB
+. Garamond/I/OT:script=latn;language=DFLT;mapping=tex-text;+onum;+liga;mapping=
+tex-text;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->s*[1.0]"EB
+. Garamond/I/OT:script=latn;language=DFLT;mapping=tex-text;+onum;+liga;mapping=
+tex-text;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. <->s*[1.0]"EB
+. Garamond/BI/OT:script=latn;language=DFLT;mapping=tex-text;+onum;+liga;mapping
+=tex-text;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. <->s*[1.0]"EB
+. Garamond/BI/OT:script=latn;language=DFLT;mapping=tex-text;+onum;+liga;mapping
+=tex-text;+smcp;"
+. and font adjustment code:
+. 
+.................................................
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 50.
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font EB Garamond/B (it probably doesn't exist).
+.................................................
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 51.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'EBGaramond(3)' created for font 'EB Garamond' with options
+. [RawFeature={+c2sc,+scmp}].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"EB Garamond/OT:script=latn;language=DFLT;+c2sc,+scmp;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->"EB Garamond/OT:script=latn;language=DFLT;+c2sc,+scmp;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. <->"EB Garamond/I/OT:script=latn;language=DFLT;+c2sc,+scmp;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->"EB Garamond/I/OT:script=latn;language=DFLT;+c2sc,+scmp;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"EB Garamond/BI/OT:script=latn;language=DFLT;+c2sc,+scmp;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. <->"EB Garamond/BI/OT:script=latn;language=DFLT;+c2sc,+scmp;+smcp;"
+. and font adjustment code:
+. 
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Lato Regular scale = 0.8094776164367054.
+.................................................
+\g__fontspec_family_LatoRegular_int=\count186
+.................................................
+. fontspec info: "set-scale"
+. 
+. Lato Regular scale = 0.8094776164367054.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Lato Bold scale = 0.7992207019631172.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Lato Regular/I scale = 0.8094776164367054.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Lato Bold/I scale = 0.7992207019631172.
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'LatoRegular(0)' created for font 'Lato Regular' with options
+. [Ligatures=TeX,Scale=MatchLowercase,BoldFont={Lato Bold}].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->s*[0.8094776164367054]"Lato
+. Regular/OT:script=latn;language=DFLT;mapping=tex-text;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+. 
+. * 'bold' with NFSS spec.:
+. <->s*[0.7992207019631172]"Lato
+. Bold/OT:script=latn;language=DFLT;mapping=tex-text;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. <->s*[0.8094776164367054]"Lato
+. Regular/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. <->s*[0.7992207019631172]"Lato
+. Bold/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Source Code Pro scale = 0.8541673951674175.
+.................................................
+\g__fontspec_family_SourceCodePro_int=\count187
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Source Code Pro/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Source Code Pro scale = 0.8541673951674175.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Source Code Pro/B scale = 0.8541673951674175.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Source Code Pro/BI scale = 0.8541673951674175.
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SourceCodePro(0)' created for font 'Source Code Pro' with
+. options [WordSpace={1,0,0},PunctuationSpace=WordSpace,Scale=MatchLowercase].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->s*[0.8541673951674175]"Source Code Pro/OT:script=latn;language=DFLT;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
+. \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font 
+. 
+. * 'bold' with NFSS spec.:
+. <->s*[0.8541673951674175]"Source Code Pro/B/OT:script=latn;language=DFLT;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
+. \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font 
+. 
+. * 'bold italic' with NFSS spec.:
+. <->s*[0.8541673951674175]"Source Code Pro/BI/OT:script=latn;language=DFLT;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
+. \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font 
+.................................................
+Package caption Info: We need package `newfloat' on input line 61.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/newfloat.sty
+Package: newfloat 2013/05/11 v1.1-91 Defining new floating environments (AR)
+Package newfloat Info: Unsupported document class, or \@chapter 
+(newfloat)             was already redefined by another package.
+Package newfloat Info: \@chapter = macro:->\def \Hy@next {\Hy@MakeCurrentHrefAu
+to {\Hy@chapapp *}\Hy@raisedlink {\hyper@anchorstart {\@currentHref }\hyper@anc
+horend }}\ifnum \c@secnumdepth >\m@ne \ltx@IfUndefined {if@mainmatter}\iftrue {
+\csname if@mainmatter\endcsname }\let \Hy@next \relax \fi \fi \Hy@next \Hy@org@
+chapter .
+Package newfloat Info: \Hy@org@chapter = macro:[#1]#2->\algocf@original@chapter
+ [#1]{#2}\addtocontents {loa}{\protect \addvspace {10\p@ }}.
+Package newfloat Info: Trying Plan B...
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip87
+\f@ncyO@elh=\skip88
+\f@ncyO@erh=\skip89
+\f@ncyO@olh=\skip90
+\f@ncyO@orh=\skip91
+\f@ncyO@elf=\skip92
+\f@ncyO@erf=\skip93
+\f@ncyO@olf=\skip94
+\f@ncyO@orf=\skip95
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip96
+\aftertitleunit=\skip97
+Normal \dimen register pool exhausted, switching to extended pool.
+\ttl@plus=\dimen256
+\ttl@minus=\dimen257
+\ttl@toksa=\toks29
+\titlewidth=\dimen258
+\titlewidthlast=\dimen259
+\titlewidthfirst=\dimen260
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip98
+\thanksmargin=\skip99
+\droptitle=\skip100
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip101
+\cftbeforetoctitleskip=\skip102
+\cftaftertoctitleskip=\skip103
+\cftbeforepartskip=\skip104
+\cftpartnumwidth=\skip105
+\cftpartindent=\skip106
+\cftbeforechapskip=\skip107
+\cftchapindent=\skip108
+\cftchapnumwidth=\skip109
+\cftbeforesecskip=\skip110
+\cftsecindent=\skip111
+\cftsecnumwidth=\skip112
+\cftbeforesubsecskip=\skip113
+\cftsubsecindent=\skip114
+\cftsubsecnumwidth=\skip115
+\cftbeforesubsubsecskip=\skip116
+\cftsubsubsecindent=\skip117
+\cftsubsubsecnumwidth=\skip118
+\cftbeforeparaskip=\skip119
+\cftparaindent=\skip120
+\cftparanumwidth=\skip121
+\cftbeforesubparaskip=\skip122
+\cftsubparaindent=\skip123
+\cftsubparanumwidth=\skip124
+\cftbeforeloftitleskip=\skip125
+\cftafterloftitleskip=\skip126
+\cftbeforefigskip=\skip127
+\cftfigindent=\skip128
+\cftfignumwidth=\skip129
+\c@lofdepth=\count188
+\c@lotdepth=\count189
+\cftbeforelottitleskip=\skip130
+\cftafterlottitleskip=\skip131
+\cftbeforetabskip=\skip132
+\cfttabindent=\skip133
+\cfttabnumwidth=\skip134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count190
+\c@@ppsavesec=\count191
+\c@@ppsaveapp=\count192
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip135
+\bibsep=\skip136
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count193
+)
+(/usr/share/texlive/texmf-dist/tex/latex/quotchap/quotchap.sty
+Package: quotchap 2012/10/20 v1.1 Decorative Chapter Headings with Quotes
+\@quotebox=\box57
+)
+\mybibindent=\skip137
+Package color Info: Redefining color chaptergrey on input line 144.
+Package hyperref Info: Option `colorlinks' set `true' on input line 152.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2014/04/24 v5.0n Spanish support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count194
+\U@D=\dimen261
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def))
+\es@quottoks=\toks30
+\es@quotdepth=\count195
+Package babel Info: Making " an active character on input line 516.
+))
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'spanish'.
+
+(./dissertation.aux
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+ (./chapters/introduction.aux) (./chapters/chapter1.aux)
+(./chapters/chapter2.aux) (./chapters/chapter3.aux) (./chapters/chapter4.aux)
+(./chapters/chapter5.aux) (./chapters/conclusion.aux) (./endmatter/colophon.aux
+))
+\openout1 = `dissertation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 9.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 9.
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 9.
+\c@lstlisting=\count196
+\AtBeginShipoutBox=\box58
+Package hyperref Info: Link coloring ON on input line 9.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count197
+)
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \nameref on input line 9.
+
+(./dissertation.out) (./dissertation.out)
+\@outlinefile=\write4
+\openout4 = `dissertation.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(99.37125pt, 415.55249pt, 99.37126pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=415.55249pt
+* \textheight=556.47656pt
+* \oddsidemargin=27.10126pt
+* \evensidemargin=27.10126pt
+* \topmargin=-8.74641pt
+* \headheight=15.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 9.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package caption Info: We need package `ragged2e' on input line 9.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ (./frontmatter/personalize.tex)
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/n' will be
+(Font)              scaled to size 24.88pt on input line 13.
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 13.
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+
+)
+[1
+
+]
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/sc' will be
+(Font)              scaled to size 10.95pt on input line 14.
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 14.
+ [2]
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 17.
+ (./frontmatter/abstract_es.tex
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 3.
+) [3] (./frontmatter/abstract_en.tex)
+[4
+
+]
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 20.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+(./dissertation.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+
+
+LaTeX Font Warning: Font shape `EU1/EBGaramond(2)/bx/n' undefined
+(Font)              using `EU1/EBGaramond(2)/m/n' instead on input line 4.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/bx/n' will be
+(Font)              scaled to size 10.95pt on input line 4.
+ [5
+
+])
+\tf@toc=\write5
+\openout5 = `dissertation.toc'.
+
+ [6]
+(./dissertation.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [7
+
+] [8] [9] [10] [11] [12])
+\tf@lof=\write6
+\openout6 = `dissertation.lof'.
+
+ [13]
+\openout2 = `chapters/introduction.aux'.
+
+
+(./chapters/introduction.tex
+Capítulo 0.
+Package newfloat Info: Setting Plan B file extension to `lof'... on input line 
+1.
+[1
+
+
+] [2]
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 42.
+ [3]
+File: figures/ch0_block_matching.png Graphic file (type QTm)
+ <use  "figures/ch0_block_matching.png" >
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/bx/n' will be
+(Font)              scaled to size 12.0pt on input line 53.
+LaTeX Font Info:    Font shape `EU1/LatoRegular(0)/bx/n' will be
+(Font)              scaled to size 9.5907pt on input line 53.
+LaTeX Font Info:    Font shape `EU1/LatoRegular(0)/bx/n' will be
+(Font)              scaled to size 7.99225pt on input line 53.
+LaTeX Font Info:    Font shape `EU1/LatoRegular(0)/m/n' will be
+(Font)              scaled to size 9.71375pt on input line 53.
+LaTeX Font Info:    Font shape `EU1/LatoRegular(0)/m/n' will be
+(Font)              scaled to size 8.09479pt on input line 53.
+LaTeX Font Info:    Font shape `EU1/LatoRegular(0)/m/it' will be
+(Font)              scaled to size 8.09479pt on input line 53.
+ [4]
+File: figures/ch0_convolutional_networks.png Graphic file (type QTm)
+
+<use  "figures/ch0_convolutional_networks.png" >
+Overfull \hbox (12.32205pt too wide) detected at line 91
+[][] [] \OMS/cmsy/m/n/10.95 ^^B [] \OT1/cmr/m/n/10.95 = ([] \OMS/cmsy/m/n/10.95
+ ^^C []\OT1/cmr/m/n/10.95 ) + ([] \OMS/cmsy/m/n/10.95 ^^C []\OT1/cmr/m/n/10.95 
+) + ([] \OMS/cmsy/m/n/10.95 ^^C []\OT1/cmr/m/n/10.95 ) + ([] \OMS/cmsy/m/n/10.9
+5 ^^C []\OT1/cmr/m/n/10.95 ) + ([] \OMS/cmsy/m/n/10.95 ^^C []\OT1/cmr/m/n/10.95
+ ) + ([] \OMS/cmsy/m/n/10.95 ^^C []\OT1/cmr/m/n/10.95 ) + ([] \OMS/cmsy/m/n/10.
+95 ^^C []\OT1/cmr/m/n/10.95 ) + ([] \OMS/cmsy/m/n/10.95 ^^C []\OT1/cmr/m/n/10.9
+5 ) + ([] \OMS/cmsy/m/n/10.95 ^^C []\OT1/cmr/m/n/10.95 )
+ []
+
+[5]
+File: figures/ch0_kernel_border.png Graphic file (type QTm)
+ <use  "figures/ch0_kernel_border.png" > [6] [7] [8] [9] [10] [11] [12])
+[13]
+\openout2 = `chapters/chapter1.aux'.
+
+ (./chapters/chapter1.tex
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/sl' in size <10> not availa
+ble
+(Font)              Font shape `EU1/EBGaramond(2)/m/it' tried instead on input 
+line 1.
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 1.
+
+Capítulo 1.
+[14
+
+
+
+]
+File: figures/ch1_quark_soc.png Graphic file (type QTm)
+ <use  "figures/ch1_quark_soc.png" > [15]
+
+LaTeX Warning: Reference `ch1_epiphany_soc' on page 16 undefined on input line 
+36.
+
+[16]
+File: figures/ch1_epiphany_soc.png Graphic file (type QTm)
+ <use  "figures/ch1_epiphany_soc.png" > [17] [18] [19]
+File: figures/ch1_enlaces_dedicados.png Graphic file (type QTm)
+
+<use  "figures/ch1_enlaces_dedicados.png" > [20]
+File: figures/ch1_nodo_simple.png Graphic file (type QTm)
+
+<use  "figures/ch1_nodo_simple.png" > [21] [22]
+File: figures/ch1_topologia.png Graphic file (type QTm)
+
+<use  "figures/ch1_topologia.png" > [23] [24] [25]
+File: figures/ch1_ruteo.png Graphic file (type QTm)
+
+<use  "figures/ch1_ruteo.png" > [26] [27] [28]
+File: figures/ch1_jerarquia_mensajes.png Graphic file (type QTm)
+
+<use  "figures/ch1_jerarquia_mensajes.png" > [29]
+File: figures/ch1_deadlock.png Graphic file (type QTm)
+
+<use  "figures/ch1_deadlock.png" > [30]
+File: figures/ch1_bufferless.png Graphic file (type QTm)
+ <use  "figures/ch1_bufferless.png" >
+[31]
+File: figures/ch1_circuit_switching.png Graphic file (type QTm)
+ <use  "figures/ch1_circuit_switching.png" > [32] [33]
+File: figures/ch1_store_cut.png Graphic file (type QTm)
+
+<use  "figures/ch1_store_cut.png" > [34]
+File: figures/ch1_wormhole.png Graphic file (type QTm)
+ <use  "figures/ch1_wormhole.png" >
+[35]
+File: figures/ch1_vc.png Graphic file (type QTm)
+ <use  "figures/ch1_vc.png" > [36]) [37]
+\openout2 = `chapters/chapter2.aux'.
+
+ (./chapters/chapter2.tex
+Capítulo 2.
+File: figures/ch2_topicos_general.png Graphic file (type QTm)
+<use  "figures/ch2_topicos_general.png" > [38
+
+
+
+] [39] [40]
+Missing character: There is no ó in font cmmi10!
+File: figures/ch2_mesh_caracteristicas.png Graphic file (type QTm)
+
+<use  "figures/ch2_mesh_caracteristicas.png" > [41] [42] [43]
+LaTeX Font Info:    Font shape `EU1/SourceCodePro(0)/m/n' will be
+(Font)              scaled to size 9.35316pt on input line 142.
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 142.
+ [44] [45]
+File: figures/ch2_creditos_timeline.png Graphic file (type QTm)
+
+<use  "figures/ch2_creditos_timeline.png" > [46] [47]
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/si' will be
+(Font)              scaled to size 12.0pt on input line 200.
+File: figures/ch2_turns.png Graphic file (type QTm)
+
+<use  "figures/ch2_turns.png" > [48]
+File: figures/ch2_giros_deadlock.png Graphic file (type QTm)
+ <use  "figures/ch2_giros_deadlock.png" >
+[49]
+
+LaTeX Font Warning: Font shape `EU1/SourceCodePro(0)/m/it' undefined
+(Font)              using `EU1/SourceCodePro(0)/m/n' instead on input line 246.
+
+
+[50]
+File: figures/ch2_wf_example.png Graphic file (type QTm)
+ <use  "figures/ch2_wf_example.png" >
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `htbp') on input line 284.
+
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 286.
+LaTeX Font Info:    Font shape `EU1/EBGaramond(2)/bx/it' will be
+(Font)              scaled to size 12.0pt on input line 320.
+) [51] [52] [53]
+\openout2 = `chapters/chapter3.aux'.
+
+ (./chapters/chapter3.tex
+Capítulo 3.
+[54
+
+
+
+]
+File: figures/ch3_pnoc.png Graphic file (type QTm)
+ <use  "figures/ch3_pnoc.png" > [55]
+File: figures/ch3_cunoc.png Graphic file (type QTm)
+ <use  "figures/ch3_cunoc.png" >
+[56] [57]
+
+LaTeX Warning: Reference `ch3_rmboc' on page 58 undefined on input line 60.
+
+[58]
+File: figures/ch3_rmboc.png Graphic file (type QTm)
+ <use  "figures/ch3_rmboc.png" > [59]) [60]
+\openout2 = `chapters/chapter4.aux'.
+
+ (./chapters/chapter4.tex
+LaTeX Font Info:    Font shape `EU1/EBGaramond(3)/m/sl' in size <10> not availa
+ble
+(Font)              Font shape `EU1/EBGaramond(3)/m/it' tried instead on input 
+line 1.
+
+Capítulo 4.
+File: figures/ch4_nodo.png Graphic file (type QTm)
+<use  "figures/ch4_nodo.png" > [61
+
+
+
+] [62]
+File: figures/ch4_organizacion_paquete.png Graphic file (type QTm)
+
+<use  "figures/ch4_organizacion_paquete.png" >
+File: figures/ch4_flit_cabecera.png Graphic file (type QTm)
+
+<use  "figures/ch4_flit_cabecera.png" > [63] [64]
+File: figures/ch4_top_level_router.png Graphic file (type QTm)
+
+<use  "figures/ch4_top_level_router.png" > [65] [66] [67]
+File: figures/ch4_control_de_enlace_top.png Graphic file (type QTm)
+
+<use  "figures/ch4_control_de_enlace_top.png" >
+File: figures/ch4_fsm_control_de_enlace.png Graphic file (type QTm)
+
+<use  "figures/ch4_fsm_control_de_enlace.png" > [68] [69]
+File: figures/ch4_planificador_de_salida_top.png Graphic file (type QTm)
+
+<use  "figures/ch4_planificador_de_salida_top.png" > [70]
+File: figures/ch4_camino_de_datos.png Graphic file (type QTm)
+
+<use  "figures/ch4_camino_de_datos.png" > [71]
+File: figures/ch4_interfaz_de_red_top.png Graphic file (type QTm)
+
+<use  "figures/ch4_interfaz_de_red_top.png" > [72] [73]
+File: figures/ch4_interfaz_des.png Graphic file (type QTm)
+
+<use  "figures/ch4_interfaz_des.png" > [74]
+File: figures/ch4_bloque_entrada_des.png Graphic file (type QTm)
+
+<use  "figures/ch4_bloque_entrada_des.png" > [75]
+File: figures/ch4_bloque_salida_des.png Graphic file (type QTm)
+
+<use  "figures/ch4_bloque_salida_des.png" > [76]) [77]
+\openout2 = `chapters/chapter5.aux'.
+
+ (./chapters/chapter5.tex
+Capítulo 5.
+[78
+
+
+
+]
+
+LaTeX Warning: Reference `ch5_concepto' on page 79 undefined on input line 22.
+
+
+LaTeX Warning: Reference `ch5_modulos_propios_del_acelerador' on page 79 undefi
+ned on input line 22.
+
+[79] [80]
+File: figures/ch5_tradicional_net.png Graphic file (type QTm)
+ <use  "figures/ch5_tradicional_net.png" > [81]
+File: figures/ch5_propuesta_net.png Graphic file (type QTm)
+
+<use  "figures/ch5_propuesta_net.png" > [82] [83]
+File: figures/ch5_transmision_paquete.png Graphic file (type QTm)
+
+<use  "figures/ch5_transmision_paquete.png" > [84] [85]
+File: figures/ch5_nodo_frontera.png Graphic file (type QTm)
+
+<use  "figures/ch5_nodo_frontera.png" > [86]
+File: figures/ch5_direccionamiento.png Graphic file (type QTm)
+
+<use  "figures/ch5_direccionamiento.png" > [87]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `htbp') on input line 153.
+
+File: figures/ch5_segmento_wfm.png Graphic file (type QTm)
+<use  "figures/ch5_segmento_wfm.png" > [88] [89]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `htbp') on input line 214.
+
+[90]
+File: figures/ch5_segmento_xy.png Graphic file (type QTm)
+ <use  "figures/ch5_segmento_xy.png" >
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `htbp') on input line 248.
+
+
+Overfull \hbox (19.19662pt too wide) in paragraph at lines 285--286
+\EU1/EBGaramond(3)/m/n/10.95 cion, estas se pueden encontran en el repositorio 
+del proyecto ([][]$[][][][][][][] [] [][][] [] [][][][][][][][][][] [] [][][][]
+[][][][][][][][]$[][])
+ []
+
+[91] [92]
+File: figures/ch5_organizacion_validacion.png Graphic file (type QTm)
+ <use  "figures/ch5_organizacion_validacion.png" > [93] [94] [95]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 345.
+
+[96]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 362.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 373.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 391.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 406.
+
+[97]) [98]
+\openout2 = `chapters/conclusion.aux'.
+
+ (./chapters/conclusion.tex
+Capítulo 6.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 6.
+
+[99
+
+
+
+]
+File: figures/ch6_histograma_source_1.png Graphic file (type QTm)
+ <use  "figures/ch6_histograma_source_1.png" >
+LaTeX Font Info:    Font shape `EU1/LatoRegular(0)/bx/n' will be
+(Font)              scaled to size 8.7515pt on input line 32.
+LaTeX Font Info:    Font shape `EU1/LatoRegular(0)/m/n' will be
+(Font)              scaled to size 8.86378pt on input line 32.
+File: figures/ch6_histograma_source_2.png Graphic file (type QTm)
+
+<use  "figures/ch6_histograma_source_2.png" >
+File: figures/ch6_histograma_source_3.png Graphic file (type QTm)
+
+<use  "figures/ch6_histograma_source_3.png" >
+File: figures/ch6_histograma_source_4.png Graphic file (type QTm)
+
+<use  "figures/ch6_histograma_source_4.png" >
+File: figures/ch6_histograma_source_5.png Graphic file (type QTm)
+
+<use  "figures/ch6_histograma_source_5.png" >
+File: figures/ch6_histograma_source_6.png Graphic file (type QTm)
+
+<use  "figures/ch6_histograma_source_6.png" >
+File: figures/ch6_histograma_source_7.png Graphic file (type QTm)
+
+<use  "figures/ch6_histograma_source_7.png" >
+File: figures/ch6_histograma_source_8.png Graphic file (type QTm)
+
+<use  "figures/ch6_histograma_source_8.png" >
+File: figures/ch6_histograma_source_9.png Graphic file (type QTm)
+
+<use  "figures/ch6_histograma_source_9.png" >
+File: figures/ch6_histograma_source_10.png Graphic file (type QTm)
+
+<use  "figures/ch6_histograma_source_10.png" >) [100] [101] [102]
+(./dissertation.bbl [103
+
+
+
+] [104] [105] [106] [107] [108]) [109]
+\openout2 = `endmatter/colophon.aux'.
+
+
+(./endmatter/colophon.tex
+File: endmatter/colophon.png Graphic file (type QTm)
+ <use  "endmatter/colophon.png" >) [110
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
+
+(./dissertation.aux
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+ (./chapters/introduction.aux) (./chapters/chapter1.aux)
+(./chapters/chapter2.aux) (./chapters/chapter3.aux) (./chapters/chapter4.aux)
+(./chapters/chapter5.aux) (./chapters/conclusion.aux) (./endmatter/colophon.aux
+))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 58.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 58.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
+ ) 
+Here is how much of TeX's memory you used:
+ 29931 strings out of 493727
+ 531783 string characters out of 6147889
+ 658080 words of memory out of 5000000
+ 32761 multiletter control sequences out of 15000+600000
+ 14140 words of font info for 120 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 49i,21n,105p,10481b,672s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on dissertation.pdf (123 pages).
